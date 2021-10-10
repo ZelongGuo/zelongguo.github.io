@@ -28,7 +28,7 @@ I'm currently a PhD candidate in [Information Science](http://infosci.cornell.ed
 <table style="width:100%">
 
   <tr>
-    <td width="15%">Sept 2021</td>
+    <td width="15%">Dec 2021</td>
     <td>Hosting a tutorial on BERT for the <a href="https://nlp-css-201-tutorials.github.io/nlp-css-201-tutorials/">NLP+CSS 201 Tutorial Series</a></td>
   </tr>
   <tr>
