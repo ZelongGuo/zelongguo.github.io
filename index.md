@@ -37,6 +37,10 @@ I'm currently a PhD candidate in [Information Science](http://infosci.cornell.ed
   </tr>
   <tr>
     <td width="15%">Sept 2021</td>
+    <td>I was featured on the <a href="https://anchor.fm/diaries-soc-data-research/episodes/The-Power-of-Birth-Stories-Narratives-and-Intellectual-Generosity-with-Maria-Antoniak-and-Karen-Levy-e17gl0o">Diaries of Social Data Research</a> podcast along with my collaborator Karen Levy</td>
+  </tr>
+  <tr>
+    <td width="15%">Sept 2021</td>
     <td>Speaking at Stanford NLP Seminar on "Modeling Shared Personal Experiences in Online Communities"</td>
   </tr>
   <tr>
