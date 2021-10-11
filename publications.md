@@ -17,7 +17,7 @@ ACL (2021)
 **[Tags, Borders, and Catalogs: Social Re-Working of Genre on LibraryThing](https://maria-antoniak.github.io/resources/2021_cscw_librarything_genres.pdf)**  
 Maria Antoniak, Melanie Walsh, and David Mimno  
 CSCW (2021)  
-[[PDF](https://maria-antoniak.github.io/resources/2021_cscw_librarything_genres.pdf)] [[ACM Digital Library](https://dl.acm.org/doi/10.1145/3449103)] [[Data](https://github.com/maria-antoniak/librarything-genres)]
+[[PDF](https://maria-antoniak.github.io/resources/2021_cscw_librarything_genres.pdf)] [[ACM Digital Library](https://dl.acm.org/doi/10.1145/3449103)] [[Data](https://github.com/maria-antoniak/librarything-genres)] [[Slides](https://maria-antoniak.github.io/resources/2021_09_29_cscw_librarything_presentation.pdf)]  
 
 **[The Goodreads “Classics”: A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism](https://maria-antoniak.github.io/resources/2021_post45_classics.pdf)**    
 Melanie Walsh and Maria Antoniak  
