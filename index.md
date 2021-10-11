@@ -32,6 +32,10 @@ I'm currently a PhD candidate in [Information Science](http://infosci.cornell.ed
     <td>Hosting a tutorial on BERT for the <a href="https://nlp-css-201-tutorials.github.io/nlp-css-201-tutorials/">NLP+CSS 201 Tutorial Series</a></td>
   </tr>
   <tr>
+    <td width="15%">Oct 2021</td>
+    <td>Selected as a "Rising Star in EECS" by the <a href="https://risingstars21-eecs.mit.edu/">MIT EECS Rising Stars</a> workshop</td>
+  </tr>
+  <tr>
     <td width="15%">Sept 2021</td>
     <td>Our paper on <a href="https://maria-antoniak.github.io/resources/2021_emnlp_decameron.pdf">storyteller personalities</a> in Boccaccio's <i>Decameron</i> is accepted at the LaTeCH-CLfL Workshop at EMNLP</td>
   </tr>
@@ -42,10 +46,6 @@ I'm currently a PhD candidate in [Information Science](http://infosci.cornell.ed
   <tr>
     <td width="15%">Sept 2021</td>
     <td>Speaking at Stanford NLP Seminar on "Modeling Shared Personal Experiences in Online Communities"</td>
-  </tr>
-  <tr>
-    <td width="15%">Aug 2021</td>
-    <td>Selected as a "Rising Star in EECS" by the <a href="https://risingstars21-eecs.mit.edu/">MIT EECS Rising Stars</a> workshop</td>
   </tr>
   <tr>
     <td width="15%">Fall 2021</td>
