@@ -1,12 +1,7 @@
 ---
 layout: default
 ---
-
-<br>
-
 <img src="my.jpg">
-
-<br>
 
 ## About
 
