@@ -2,18 +2,14 @@
 layout: default
 ---
 <img src="my_photo6.jpg">
+
 ## About
 
 <!-- <img class="profile-picture" src="me.png"> -->
 
-I'm a researcher and data scientist working in natural language processing, computational social science, and cultural analytics. I'm interested in modeling how people communicate about their personal experiences through text, especially when these communications occur in online communities grounded in shared, structured experiences, like healthcare experiences or cultural objects like books or games. My research relies on unsupervised machine learning methods and re-explores the reliability and evaluation of these methods when applied to small, socially-specific datasets. 
+I am a Ph.D. candidate of Geodesy/Geophysics in [GFZ German Research Cemnter for Geosciences](https://www.gfz-potsdam.de/en/home/) and [Leibniz University Hannover](https://www.uni-hannover.de/en/). Currently I work with Prof. [Mahdi Motagh](https://www.gfz-potsdam.de/en/staff/mahdi-motagh/sec14/) in radar and optical remote sensing for analysis of geohazards group. My research interests span geodetic technique, geophysical inversions and the interpretation of geological tectonic deforamtion.  
 
-My past work has examined how postpartum people share and frame their [birth experiences](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf), how online book reviewers use and write about [genres](https://maria-antoniak.github.io/resources/2021_cscw_librarything_genres.pdf), and how the use of word embedding models require additional [stability tests](https://maria-antoniak.github.io/resources/2018_evaluating_stability.pdf) when used to measure biases.
-
-I'm currently a PhD candidate in [Information Science](http://infosci.cornell.edu/) at Cornell University, where I'm advised by [David Mimno](https://mimno.infosci.cornell.edu/). I have a master's degree in [Computational Linguistics](https://www.compling.uw.edu/) from the University of Washington and have worked as a data scientist and research intern at places like [Microsoft Research](https://www.microsoft.com/en-us/research/), [Twitter Cortex](https://cortex.twitter.com/), [Facebook Core Data Science](https://research.fb.com/core-data-science/), and [Pacific Northwest National Laboratory](https://www.pnl.gov/).
-
-**I'm on the job market!** Please reach out if you think I'd be a good fit for your academic department or industry research group.
-
+For my Ph.D., my research focus on the post- and inter-seismic deformation associated with the 2017 Mw 7.3 Iran-Iraq border (Sarpol-e Zahab) earthquake and the Zagros orogen, combined with the geodetic inversion, numerical modeling and the analysis of geological tectonics growth in this region.  
 
 <br> 
 
@@ -84,15 +80,5 @@ I'm currently a PhD candidate in [Information Science](http://infosci.cornell.ed
 
 
 <br>
-
-
-## Other Things
-
-* I'm the current President of [Grads for Gender Inclusion in Computing](https://gsgic.org/) at Cornell. 
-* I'm the current Webmaster (and former Social Chair and Treasurer) of [Graduate Women in Science](https://gwiscornell.wordpress.com/) at Cornell.
-* In undergrad, I studied in the [Program of Liberal Studies](https://pls.nd.edu/), a reading-oriented set of tutorials and seminars, at the University of Notre Dame. I'm always happy to talk to students who are interested in transitioning from the humanities to technology.
-* No relation (as far as I know) to [the other Antoniak](https://www.semanticscholar.org/author/C.-Antoniak/16645877) interested in the Dirichlet distribution.
-* [books books books](https://maria-antoniak.github.io/reading)
-
 
 <br><br><br>
