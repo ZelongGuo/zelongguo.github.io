@@ -4,7 +4,7 @@ layout: default
 
 <br>
 
-<img src="me.png">
+<img src="me.jpg">
 
 <br>
 
