@@ -1,0 +1,20 @@
+- name: "Contact"
+  link: "https://zelongguo.github.io/contact"
+
+- name: "Resources"
+  link: "https://zelongguo.github.io/resources"
+
+- name: "Code"
+  link: "https://github.com/ZelongGuo"
+
+- name: "Blog"
+  link: "https://zelongguo.github.io/blog"
+
+- name: "Publications"
+  link: "https://zelongguo.github.io/publications"
+
+- name: "CV"
+  link: "https://zelongguo.github.io/cv"
+
+- name: "Home"
+  link: "https://zelongguo.github.io/"
