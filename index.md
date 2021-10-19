@@ -4,7 +4,7 @@ layout: default
 
 <br>
 
-<img src="me_banner.jpg">
+<img src="profile.jpg">
 
 <br>
 
