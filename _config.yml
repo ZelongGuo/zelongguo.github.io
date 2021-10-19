@@ -1,4 +1,4 @@
-title: Maria Antoniak
+title: Zelong Guo
 url: "https://zelongguo.github.io/"
 baseurl: ""
 
@@ -7,7 +7,7 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
-tracking_id: UA-156013933-1
+tracking_id: 
 
 sass:
     style: compressed
