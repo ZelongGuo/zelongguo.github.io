@@ -2,7 +2,6 @@
 layout: default
 ---
 <img src="my.jpg">
-
 ## About
 
 <!-- <img class="profile-picture" src="me.png"> -->
