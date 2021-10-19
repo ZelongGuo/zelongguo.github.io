@@ -15,6 +15,7 @@ layout: default
 * Sep. 2012 - Sep. 2016, **Bachelor in Geodesy**  
   * College of Geomatics, [Shandong University of Science and Technology](https://en.sdust.edu.cn/), Qingdao, China
 
+<br>
 ### Scholarship and Awards
 
 * **Scholarship:**  
