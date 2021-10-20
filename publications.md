@@ -17,10 +17,10 @@ layout: default
 
 
 <h3>Conference</h3>
-<p>test</p>
+<p>test2</p>
 
 
-<body> 
+</body> 
 </html>
 
 <!--
