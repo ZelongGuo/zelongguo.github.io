@@ -1,14 +1,18 @@
 - name: "Contact"
   link: "https://zelongguo.github.io/contact"
 
+<!--
 - name: "Resources"
   link: "https://zelongguo.github.io/resources"
+-->
 
 - name: "Code"
   link: "https://github.com/ZelongGuo"
 
+<!--
 - name: "Blog"
   link: "https://zelongguo.github.io/blog"
+-->
 
 - name: "Publications"
   link: "https://zelongguo.github.io/publications"
