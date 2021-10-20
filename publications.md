@@ -1,10 +1,17 @@
+---
+layout: default
+---
+
+<br>
+
+
 <html>
 <body>
 
 <h3>Paper</h3>
 
 <p> 
-[3] Zhang, Y., Xu, C.<sup>&#9993</sup>, Fang, J. & <b>Guo, Z.</b> (2021). Focal mechanism inversion of the 2018 Mw7.1 Anchorage earthquake based on high-rate GPS observation. <i>Geodesy and Geodynamics</i>. <a href="https://doi.org/10.1016/j.geog.2021.09.004"><b>[Link]</b></a>
+[3] Zhang, Y., Xu, C.<sup>\2709</sup>, Fang, J. & <b>Guo, Z.</b> (2021). Focal mechanism inversion of the 2018 Mw7.1 Anchorage earthquake based on high-rate GPS observation. <i>Geodesy and Geodynamics</i>. <a href="https://doi.org/10.1016/j.geog.2021.09.004"><b>[Link]</b></a>
 </p>
 
 <p> 
