@@ -11,7 +11,6 @@ I am a Ph.D candidate of Geodesy/Geophysics in [GFZ German Research Cemnter for 
 
 For my Ph.D, my research focus on the post- and inter-seismic deformation associated with the 2017 Mw 7.3 Iran-Iraq border (Sarpol-e Zahab) earthquake and the Zagros orogen, combined with geodetic inversion, numerical modeling and the analysis of geological tectonics growth in this region.  
 
-***
 ### News
 <!-- this is comments -->
 <table style="width:100%">
