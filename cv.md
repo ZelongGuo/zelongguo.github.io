@@ -16,6 +16,7 @@ layout: default
   * College of Geomatics, [Shandong University of Science and Technology](https://en.sdust.edu.cn/), Qingdao, China
 
 <br>
+***
 ### Scholarship and Awards
 
 * **Scholarship:**  
