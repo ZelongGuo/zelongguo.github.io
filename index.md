@@ -3,7 +3,7 @@ layout: default
 ---
 <img src="my_photo6.jpg">
 
-### About
+### About &#128100;
 
 <!-- <img class="profile-picture" src="me.png"> -->
 
