@@ -16,7 +16,7 @@ For my Ph.D, my research focus on the post- and inter-seismic deformation associ
 <table style="width:100%">
   <tr>
     <td width="15%">Oct 2021</td>
-    <td>&#128266; Paper on <a href="https://www.sciencedirect.com/science/article/pii/S1674984721000690?via%3Dihub">focal mechanism inversion of the 2018 Mw7.1 Anchorage earthquake</a> published at <i>Geodesy and Geodynamics</i>!</td>
+    <td>Paper on <a href="https://www.sciencedirect.com/science/article/pii/S1674984721000690?via%3Dihub">focal mechanism inversion of the 2018 Mw7.1 Anchorage earthquake</a> published at <i>Geodesy and Geodynamics!</i>&#128266;</td>
   </tr>
 </table>
 
