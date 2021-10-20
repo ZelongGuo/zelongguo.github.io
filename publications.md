@@ -6,7 +6,7 @@ layout: default
 
 ### Paper
 
-[3] Zhang, Y., Xu,C.<sub>*</sub>, Fang, J. & **Guo, Z.** (2021). Focal mechanism inversion of the 2018 Mw7.1 Anchorage earthquake based on high-rate GPS observation. *Geodesy and Geodynamics*. [[**Link**](https://doi.org/10.1016/j.geog.2021.09.004)]  
+[3] Zhang, Y., Xu, C.<sup>*</sup>, Fang, J. & **Guo, Z.** (2021). Focal mechanism inversion of the 2018 Mw7.1 Anchorage earthquake based on high-rate GPS observation. *Geodesy and Geodynamics*. [[**Link**](https://doi.org/10.1016/j.geog.2021.09.004)]  
 
 [2] **Guo, Z.**, Wen, Y., Xu, G., Wang, S., Wang, X., Liu, Y., & Xu, C. (2019). Fault Slip Model of the 2018 Mw 6.6 Hokkaido Eastern Iburi, Japan, Earthquake Estimated from Satellite Radar and GPS Measurements. *Remote Sensing*, 11(14). [[**Link**](https://doi.org/10.3390/rs11141667)]  
 
