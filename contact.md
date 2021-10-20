@@ -13,8 +13,8 @@ is_contact: true
    
 ***
 
-> GFZ German Research Center for Geosciences  
-Telegrafenberg Building A17, Room 20.26  
-14473 Potsdam, Germany
+> GFZ German Research Center for Geosciences, Section 1.4  
+Telegrafenberg, Building A17, Room 20.26  
+14473, Potsdam, Germany
 
 <br>
