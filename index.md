@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="./_image/my_photo6.jpg">
+<img src="my_photo6.jpg">
 
 ### About
 
