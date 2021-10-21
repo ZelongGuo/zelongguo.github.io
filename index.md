@@ -24,9 +24,11 @@ For my Ph.D, my researches focus on the post- and inter-seismic deformation asso
   </tr>
 </table>
 
+<!--
 <div class="footer">
 &copy 2021 Zelong Guo
 </div>
+-->
 
 <br>
 
