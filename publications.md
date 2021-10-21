@@ -19,9 +19,9 @@ layout: default
 
 <h3>Conference</h3>
 
-<p> [2]&nbsp; <b>Guo, Z.,</b> Wen, Y., Xu, G., Wang, S., Wang, X., Liu, Y., & Xu, C. Slip Distribution of the 2018 Mw6.6 Hokkaido Eastern Iburi, Japan, Earthquake from InSAR and GPS Data (in Chinese), <i>6th Annual Meeting of Chinese Geoscience Union (CGU)</i> Beijing, China, 2019.</p>
+<p> [2]&nbsp; <b>Guo, Z.,</b> Wen, Y., Xu, G., Wang, S., Wang, X., Liu, Y., & Xu, C. Slip Distribution of the 2018 Mw6.6 Hokkaido Eastern Iburi, Japan, Earthquake from InSAR and GPS Data (in Chinese), <i>6th Annual Meeting of Chinese Geoscience Union (CGU)</i>, Beijing, China, 2019.</p>
 
-<p> [1]&nbsp; <b>Guo, Z.,</b> Wen, Y., Xu, C., Xu, G. Modeling of Coseismic and Early Postseismic Deformation Associated with the 2018 Mw7.9 Kodiak, Alaska Earthquake from Static and High-rate GPS Observations (in Chinese), <i>3rd Congress of China Geodesy and Geophysics</i> Lanzhou, China, 2018.</p>
+<p> [1]&nbsp; <b>Guo, Z.,</b> Wen, Y., Xu, C., Xu, G. Modeling of Coseismic and Early Postseismic Deformation Associated with the 2018 Mw7.9 Kodiak, Alaska Earthquake from Static and High-rate GPS Observations (in Chinese), <i>3rd Congress of China Geodesy and Geophysics</i>, Lanzhou, China, 2018.</p>
 
 </body> 
 </html>
