@@ -11,7 +11,7 @@ layout: default
   * Advisor: Prof. [Mahdi Motagh](https://www.gfz-potsdam.de/en/staff/mahdi-motagh/sec14/)  
 * Sep. 2017 - Sep. 2020, **Master in Geophysics**  
   * [School of Geodesy and Geomatics](en.sgg.whu.edu.cn), [Wuhan University](https://en.whu.edu.cn/index.htm), Wuhan, China
-  * Advisor: Prof. [Yangmao Wen](en.sgg.whu.edu.cn)
+  * Advisor: Prof. [Yangmao Wen](http://ymwen.users.sgg.whu.edu.cn/)
 * Sep. 2012 - Sep. 2016, **Bachelor in Geodesy**  
   * College of Geomatics, [Shandong University of Science and Technology](https://en.sdust.edu.cn/), Qingdao, China
 
