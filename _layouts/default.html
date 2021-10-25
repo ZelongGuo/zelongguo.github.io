@@ -58,6 +58,17 @@
     {% else %}
         <meta name="twitter:image" content="{{ site.profile_picture }}">
     {% endif %}
+
+    <!-- Global site tag (gtag.js) - Google Analytics, copid from google analytics, Zelong Guo, 25.10.2021 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-2GDVTVFMCF"></script>
+    <script>
+	    window.dataLayer = window.dataLayer || [];
+	    function gtag(){dataLayer.push(arguments);}
+	    gtag('js', new Date());
+
+	    gtag('config', 'G-2GDVTVFMCF');
+    </script>
+
 </head>
 <body>
     <div class="wrapper">
