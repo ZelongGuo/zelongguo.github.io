@@ -7,7 +7,7 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
-tracking_id: 
+tracking_id: G-2GDVTVFMCF
 
 sass:
     style: compressed
