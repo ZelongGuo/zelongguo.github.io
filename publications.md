@@ -10,6 +10,9 @@ layout: default
 
 <h3>Paper</h3>
 
+<p> [4]&nbsp; <b>Guo, Z.</b><sup>&#9993;</sup>, Motagh, M., Hu, J.-C., Xu, G., Haghighi., M. H., Bahroudi, A. & Fathian, A. Transient aseismic slip following 2017 Mw 7.3 Sarpol-e Zahab, Iran, earthquake: Possible evidence for fault frictional heterogeneity and thin-skinned shortening following a thick-skinned basement-involved faulting in
+the Zagros. <i><b>(in preparation)</b></i>. 
+
 <p> [3]&nbsp; Zhang, Y., Xu, C.<sup>&#9993;</sup>, Fang, J. & <b>Guo, Z.</b> (2021). Focal mechanism inversion of the 2018 Mw7.1 Anchorage earthquake based on high-rate GPS observation. <i>Geodesy and Geodynamics</i>. <a href="https://doi.org/10.1016/j.geog.2021.09.004"><b>[Link]</b></a></p>
 
 <p> [2]&nbsp; <b>Guo, Z.,</b> Wen, Y.<sup>&#9993;</sup>, Xu, G., Wang, S., Wang, X., Liu, Y., & Xu, C. (2019). Fault Slip Model of the 2018 Mw 6.6 Hokkaido Eastern Iburi, Japan, Earthquake Estimated from Satellite Radar and GPS Measurements. <i>Remote Sensing</i>, 11(14). <a href="https://doi.org/10.3390/rs11141667"><b>[Link]</b></a></p>
