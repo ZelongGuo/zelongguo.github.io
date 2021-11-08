@@ -1,16 +1,18 @@
-<img src="my_pho.jpg" height="200px" width="164px" style="float:left" />
-<div style="padding-left:230px">
+---
+layout: default
+---
+<p>
+<img src="my_pho.jpg" height="200px" width="164px" align="left" />
 <h4>Zelong Guo</h4>
-<p><i>Ph.D. Candidate
+<i>Ph.D. Candidate
 <br>
 Section 1.4 Remote Sensing and Geoinformatics
 <br>
 GFZ German Research Centre for Geosciences
 <br>
-Potsdam, Germany2
+Potsdam, Germany3
 </i>
 </p>
-</div>
 
 <br>
 
