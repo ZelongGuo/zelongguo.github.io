@@ -10,7 +10,7 @@ Section 1.4 Remote Sensing and Geoinformatics
 <br>
 GFZ German Research Centre for Geosciences
 <br>
-Potsdam, Germany4
+Potsdam, Germany
 </i>
 </p>
 
