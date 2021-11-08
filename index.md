@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<body>
 <img src="my_pho.jpg" height="200" width="164" style="float:left">
 <div style="float:left; padding-left:80px">
 <h4>Zelong Guo</h4>
@@ -20,8 +21,6 @@ Potsdam, Germany
 <div style="float:left">
 
 ### About 
-
-<!-- <img class="profile-picture" src="me.png"> -->
 
 I am a Ph.D candidate of Geodesy/Geophysics in [GFZ German Research Center for Geosciences](https://www.gfz-potsdam.de/en/home/) and [Leibniz University Hannover](https://www.uni-hannover.de/en/). Currently I work with Prof. [Mahdi Motagh](https://www.gfz-potsdam.de/en/staff/mahdi-motagh/sec14/) in radar and optical remote sensing for analysis of geohazards group. My research interests span geodetic technique, geophysical inversions and the interpretation of geological tectonic deforamtion.  
 
@@ -42,13 +41,6 @@ For my Ph.D, my researches focus on the post- and inter-seismic deformation asso
 
 </div>
 
-
-
-<!--  
-<div class="footer">
-&copy 2021 Zelong Guo
-</div>
--->
-
 <br>
+</body>
 
