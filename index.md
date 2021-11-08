@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="my_pho2.jpg" />
+<img src="my_photo6.jpg" />
 
 ### About
 
