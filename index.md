@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="my_pho.jpg" height="200" style="float:left">
+<img src="my_pho.jpg" height="200" width="164" style="float:left">
 <div style="float:left; padding-left:80px">
 <h5>Zelong Guo</h5>
 <p><i>Ph.D. Candidate
