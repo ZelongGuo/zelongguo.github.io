@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<img src="my_photo6.jpg" />
+<img src="my_pho2.jpg" height="200"/>
 
-### About 
+### About 1
 
 I am a Ph.D candidate of Geodesy/Geophysics in [GFZ German Research Center for Geosciences](https://www.gfz-potsdam.de/en/home/) and [Leibniz University Hannover](https://www.uni-hannover.de/en/). Currently I work with Prof. [Mahdi Motagh](https://www.gfz-potsdam.de/en/staff/mahdi-motagh/sec14/) in radar and optical remote sensing for analysis of geohazards group. My research interests span geodetic technique, geophysical inversions and the interpretation of geological tectonic deforamtion.  
 
