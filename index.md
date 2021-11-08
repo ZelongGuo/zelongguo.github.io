@@ -2,9 +2,8 @@
 layout: default
 ---
 
-<body>
 <img src="my_pho.jpg" height="200" width="164" style="float:left">
-<div style="float:left; padding-left:80px">
+<div style="padding-left:230px">
 <h4>Zelong Guo</h4>
 <p><i>Ph.D. Candidate
 <br>
@@ -17,8 +16,9 @@ Potsdam, Germany
 </p>
 </div>
 
+<br>
 
-<div style="float:left">
+
 
 ### About 
 
@@ -39,8 +39,5 @@ For my Ph.D, my researches focus on the post- and inter-seismic deformation asso
   </tr>
 </table>
 
-</div>
-
 <br>
-</body>
 
