@@ -2,7 +2,7 @@
 layout: default
 ---
 <p>
-<img src="my_pho.jpg" width="6" align="right" />
+<img src="my_pho2.jpg" width="6" align="right" />
 <h4>Zelong Guo</h4>
 <i>Ph.D. Candidate
 <br>
@@ -10,7 +10,7 @@ Section 1.4 Remote Sensing and Geoinformatics
 <br>
 GFZ German Research Centre for Geosciences
 <br>
-Potsdam, Germany4
+Potsdam, Germany5
 </i>
 </p>
 
