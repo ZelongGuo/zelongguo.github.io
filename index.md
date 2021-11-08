@@ -1,7 +1,23 @@
 ---
 layout: default
 ---
-<img src="my_photo6.jpg">
+
+<img src="my_pho.jpg" height="200" style="float:left">
+<div style="float:left; padding-left:80px">
+<h5>Zelong Guo</h5>
+<p><i>Ph.D. Candidate
+<br>
+Section 1.4 Remote Sensing and Geoinformatics
+<br>
+GFZ German Research Centre for Geosciences
+<br>
+Potsdam, Germany
+</i>
+</p>
+</div>
+
+
+<div style="float:left">
 
 ### About 
 
@@ -23,6 +39,10 @@ For my Ph.D, my researches focus on the post- and inter-seismic deformation asso
     <td>My personal webpage is online!</td>
   </tr>
 </table>
+
+</div>
+
+
 
 <!--  
 <div class="footer">
