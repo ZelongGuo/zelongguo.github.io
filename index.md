@@ -4,7 +4,7 @@ layout: default
 
 <img src="my_pho.jpg" height="200" width="164" style="float:left">
 <div style="float:left; padding-left:80px">
-<h5>Zelong Guo</h5>
+<h4>Zelong Guo</h4>
 <p><i>Ph.D. Candidate
 <br>
 Section 1.4 Remote Sensing and Geoinformatics
