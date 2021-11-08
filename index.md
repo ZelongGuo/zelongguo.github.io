@@ -10,7 +10,7 @@ Section 1.4 Remote Sensing and Geoinformatics
 <br>
 GFZ German Research Centre for Geosciences
 <br>
-Potsdam, Germany3
+Potsdam, Germany4
 </i>
 </p>
 
@@ -21,8 +21,6 @@ Potsdam, Germany3
 ### About 
 
 I am a Ph.D candidate of Geodesy/Geophysics in [GFZ German Research Center for Geosciences](https://www.gfz-potsdam.de/en/home/) and [Leibniz University Hannover](https://www.uni-hannover.de/en/). Currently I work with Prof. [Mahdi Motagh](https://www.gfz-potsdam.de/en/staff/mahdi-motagh/sec14/) in radar and optical remote sensing for analysis of geohazards group. My research interests span geodetic technique, geophysical inversions and the interpretation of geological tectonic deforamtion.  
-
-<img src="my_pho.jpg" height="200px" width="164px" align="left" />
 
 For my Ph.D, my researches focus on the post- and inter-seismic deformation associated with the 2017 Mw 7.3 Iran-Iraq border (Sarpol-e Zahab) earthquake and the Zagros orogen, combined with geodetic inversion, numerical modeling and the analysis of geological tectonics growth in this region.  
 
