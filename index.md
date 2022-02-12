@@ -10,7 +10,7 @@ I am a Ph.D candidate of Geodesy/Geophysics in [GFZ German Research Center for G
 
 For my Ph.D, my researches focus on earthquake cycle deformation in the Zagros orogen combined with geodetic inversion, numerical modeling and the analysis of geological tectonics growth in this region.  
 
-*- - - The way to do science is with interest,  passion and curiosity, really like the feeling after solving problems. - - -*
+*- - - doing science with interest,  passion and curiosity, I really like the feelings after solving problems. - - -*
 
 ### News 
 <!-- this is comments -->
