@@ -21,6 +21,8 @@ layout: default
 
 <h3>Conference</h3>
 
+<p> [3]&nbsp; <b>Guo, Z.,</b> Motagh, M., Hu, J.-C., Xu, G., Haghighi., M. H., Bahroudi, A. & Fathian, A. (2022). Transient aseismic slip and crustal shortening following 2017 Iran-Iraq (Sarpol-e Zahab) Mw 7.3 Earthquake Inferred from 3 years of InSAR Observations, <i>EGU General Assembly 2022</i>, Vienna, Austria, 2022.</p>
+
 <p> [2]&nbsp; <b>Guo, Z.,</b> Wen, Y., Xu, G., Wang, S., Wang, X., Liu, Y., & Xu, C. Slip Distribution of the 2018 Mw6.6 Hokkaido Eastern Iburi, Japan, Earthquake from InSAR and GPS Data (in Chinese), <i>6th Annual Meeting of Chinese Geoscience Union (CGU)</i>, Beijing, China, 2019.</p>
 
 <p> [1]&nbsp; <b>Guo, Z.,</b> Wen, Y., Xu, C., Xu, G. Modeling of Coseismic and Early Postseismic Deformation Associated with the 2018 Mw7.9 Kodiak, Alaska Earthquake from Static and High-rate GPS Observations (in Chinese), <i>3rd Congress of China Geodesy and Geophysics</i>, Lanzhou, China, 2018.</p>
