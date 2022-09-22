@@ -8,7 +8,7 @@ layout: default
 <meta charset="UTF-8">
 <body>
 
-<h2>Paper</h2>
+<h3>Paper</h3>
 
 <p> [4]&nbsp; <b>Guo, Z.</b><sup>&#9993;</sup>, Motagh, M., Hu, J.-C., Xu, G., Haghighi., M. H., Bahroudi, A.  Fathian, A. & Li S. (2022). Depth-varing Friction on a Ramp-flat Fault Illuminated by ~3-yesr InSAR Observations Following the 2017 Mw 7.3 Sarpol-e Zahab Earthquake. <i><b>(under second-round review)</b></i>. </p>
 
@@ -19,7 +19,7 @@ layout: default
 <p> [1]&nbsp; Wen, Y.<sup>&#9993;</sup>, <b>Guo, Z.,</b> Xu, C., Xu, G., & Song, C. (2019). Coseismic and Postseismic Deformation Associated with the 2018 Mw 7.9 Kodiak, Alaska, Earthquake from Low-Rate and High-Rate GPS Observations. <i>Bulletin of the Seismological Society of America</i> 109(3), 908–918. <a href="https://doi.org/10.1785/0120180246"><b>[Link]</b></a></p>
 
 
-<h2>Conference</h2>
+<h3>Conference</h3>
 
 <p> [3]&nbsp; <b>Guo, Z.,</b> Motagh, M., Hu, J.-C., Xu, G., Haghighi., M. H., Bahroudi, A. & Fathian, A. (2022). Transient aseismic slip and crustal shortening following 2017 Iran-Iraq (Sarpol-e Zahab) Mw 7.3 Earthquake Inferred from 3 years of InSAR Observations, <i>EGU General Assembly 2022</i>, Vienna, Austria, 2022.</p>
 
