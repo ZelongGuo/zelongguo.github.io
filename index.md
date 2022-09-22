@@ -3,7 +3,7 @@ layout: default
 ---
 
 <!-- <img src="my_photo6.jpg" /> -->
-<img class="profile-picture" src="my_pho2.jpg">
+<img class="profile-picture" src="my_pho.jpg">
 <!-- this is comments -->
 
 ### About
