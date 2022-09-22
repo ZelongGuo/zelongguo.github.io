@@ -4,4 +4,8 @@ layout: default
 
 <br>
 
-####Coming soon ...
+body {
+  color: red;
+}
+
+#### Coming soon ...
