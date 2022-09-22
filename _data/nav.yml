@@ -6,7 +6,10 @@
 
 - name: "Publications"
   link: "https://zelongguo.github.io/publications"
-
+  
+- name: "Reaserch"
+  link: "https://zelongguo.github.io/research"
+  
 - name: "CV"
   link: "https://zelongguo.github.io/cv"
 
