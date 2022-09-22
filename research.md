@@ -1,11 +1,8 @@
 ---
-layout: default
+layout: research
 ---
 
-<br>
 
-body {
-  color: red;
-}
+<br>
 
 #### Coming soon ...
