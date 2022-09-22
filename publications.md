@@ -10,7 +10,7 @@ layout: default
 
 <h3>Paper</h3>
 
-<p> [4]&nbsp; <b>Guo, Z.</b><sup>&#9993;</sup>, Motagh, M., Hu, J.-C., Xu, G., Haghighi., M. H., Bahroudi, A. & Fathian, A. (2021). Transient aseismic slip following 2017 Mw 7.3 Sarpol-e Zahab, Iran, earthquake: Possible evidence for fault frictional heterogeneity and thin-skinned shortening following a thick-skinned basement-involved faulting in the Zagros fold-thrust belt. <i><b>(in preparation)</b></i>. </p>
+<p> [4]&nbsp; <b>Guo, Z.</b><sup>&#9993;</sup>, Motagh, M., Hu, J.-C., Xu, G., Haghighi., M. H., Bahroudi, A. & Fathian, A. (2021). Depth-varing Friction on a Ramp-flat Fault Illuminated by ~3-yesr InSAR Observations Following the 2017 Mw 7.3 Sarpol-e Zahab Earthquake. <i><b>(under second-round review)</b></i>. </p>
 
 <p> [3]&nbsp; Zhang, Y., Xu, C.<sup>&#9993;</sup>, Fang, J. & <b>Guo, Z.</b> (2021). Focal mechanism inversion of the 2018 Mw7.1 Anchorage earthquake based on high-rate GPS observation. <i>Geodesy and Geodynamics</i>, 12(6), 381-391. <a href="https://doi.org/10.1016/j.geog.2021.09.004"><b>[Link]</b></a></p>
 
