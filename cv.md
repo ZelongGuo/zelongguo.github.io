@@ -4,7 +4,7 @@ layout: default
 
 <br>
 
-### Education
+## Education
 
 * Oct. 2020 - present, **Ph.D Candidate in Geodesy**  
   * [GFZ German Research Centre for Geosciences](https://www.gfz-potsdam.de/en/home/), Potsdam, Germany
@@ -15,7 +15,7 @@ layout: default
 * Sep. 2012 - Sep. 2016, **Bachelor in Geodesy**  
   * College of Geomatics, [Shandong University of Science and Technology](https://en.sdust.edu.cn/), Qingdao, China
 
-### Scholarship and Awards
+## Scholarship and Awards
 
 * **Scholarship:**  
   * Jun. 2020, CSC (China Scholarship Council) Scholarship for Ph.D study in GFZ
