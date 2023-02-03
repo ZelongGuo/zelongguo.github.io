@@ -19,7 +19,7 @@ For my Ph.D, my researches focus on earthquake cycle deformation in the Zagros o
 <table style="width:100%">
   <tr>
     <td width="15%">Dec 2022</td>
-    <td>New paper associated with <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JB025148"> 2017 Mw7.3 Iran-Iraq earthquake </a>  published on <i><b>JGR:Solid Earth!</b></i>  &#128266;</i></td>
+    <td>New paper associated with <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JB025148"> 2017 Mw7.3 Iran-Iraq earthquake </a>  published on <i><b>JGR:Solid Earth!</b>  &#128266;</i></td>
   </tr>
   <tr>
     <td width="15%">Oct 2021</td>
