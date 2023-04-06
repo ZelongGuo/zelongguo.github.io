@@ -10,7 +10,7 @@ layout: default
 
 <h3>Paper</h3>
 
-<HR>
+<hr>
 <p><i><b>Paper as First or Corresponding Aothor:</b></i></p>
 
 <p> [3]&nbsp; <b>Guo, Z.</b><sup>&#9993;</sup>, Motagh, M., Hu, J.-C., Xu, G., Haghighi., M. H., Bahroudi, A.  Fathian, A. & Li S. (2022). Depth-varing Friction on a Ramp-flat Fault Illuminated by ~3-yesr InSAR Observations Following the 2017 Mw 7.3 Sarpol-e Zahab Earthquake. <i><b>Journal of Geophysical Research: Solid Earth</b></i>, 127. <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JB025148"><b>[Link]</b></a></p>
@@ -19,13 +19,14 @@ layout: default
 
 <p> [1]&nbsp; Wen, Y.<sup>&#9993;</sup>, <b>Guo, Z.,</b> Xu, C., Xu, G., & Song, C. (2019). Coseismic and Postseismic Deformation Associated with the 2018 Mw 7.9 Kodiak, Alaska, Earthquake from Low-Rate and High-Rate GPS Observations. <i>Bulletin of the Seismological Society of America</i> 109(3), 908–918. <a href="https://doi.org/10.1785/0120180246"><b>[Link]</b></a></p>
 
-<HR>
 
+<hr>
 <p><i><b>Paper as Co-Aothor:</b></i></p>
 
 <p> [1]&nbsp; Zhang, Y., Xu, C.<sup>&#9993;</sup>, Fang, J. & <b>Guo, Z.</b> (2021). Focal mechanism inversion of the 2018 Mw7.1 Anchorage earthquake based on high-rate GPS observation. <i>Geodesy and Geodynamics</i>, 12(6), 381-391. <a href="https://doi.org/10.1016/j.geog.2021.09.004"><b>[Link]</b></a></p>
 
-<HR>
+
+<hr>
 
 <h3>Conference</h3>
 
