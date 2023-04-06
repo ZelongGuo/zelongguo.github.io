@@ -13,8 +13,7 @@ layout: default
 <p style='text-align: justify'>
 <b>1. Using analytical models,</b> P.S., This is the 1st work for my PhD
 <br>
-<i><b>
-(Guo et al., 2020, <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JB025148">published on JGR: Solid Earth</a>)</i></b>
+<i><b>(Guo et al., 2020, <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JB025148">published on JGR: Solid Earth</a>)</b></i>
 </p>
 
 <p style='text-align: justify'>
