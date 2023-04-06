@@ -26,7 +26,7 @@ For coseismic modeling, we attampt to investigate whether a listric fault could 
 <div align="center">
    <img src="./research/1.png"
      alt="Coseismic Model"
-     width="600"
+     width="580"
      height="400"
      title="A T-Rex on display in the Manchester University Museum">
 
