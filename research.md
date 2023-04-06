@@ -8,13 +8,13 @@ layout: default
 <!-- this is inline css gramma,it is not recommanded... Search for W3School -->
 <!-- <p style="color:red;">Coming soon ...</p> -->
 
-#### Co- and Post-seismic Modeling of 2017 Iran-Iraq (Sarpol -e Zahab) Mw 7.3 Earthquake  
+### Co- and Post-seismic Modeling of 2017 Iran-Iraq (Sarpol -e Zahab) Mw 7.3 Earthquake  
 
 <p style='text-align: justify'>
-<b>1. Using analytical models,</b> P.S., This is the 1st work for my PhD  
-
-<i><b>(Guo et al., 2020, <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JB025148">published on JGR: Solid Earth</a>)</i></b>  
-
+<b>1. Using analytical models,</b> P.S., This is the 1st work for my PhD
+<br>
+<i><b>
+(Guo et al., 2020, <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JB025148">published on JGR: Solid Earth</a>)</i></b>
 </p>
 
 <p style='text-align: justify'>
