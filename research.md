@@ -8,7 +8,7 @@ layout: default
 <!-- this is inline css gramma,it is not recommanded... Search for W3School -->
 <!-- <p style="color:red;">Coming soon ...</p> -->
 
-### Co- and Post-seismic Modeling of 2017 Iran-Iraq (Sarpol -e Zahab) Mw 7.3 Earthquake  
+### Co- and Post-seismic Modeling of 2017 Iran-Iraq (Sarpol-e Zahab) Mw 7.3 Earthquake  
 
 <p style='text-align: justify'>
 <b>1. Using analytical models,</b> P.S., This is the 1st work for my PhD
@@ -28,7 +28,7 @@ For coseismic modeling, we attampt to investigate whether a listric fault could 
    <img src="./research/1.png"
      alt="Coseismic Model"
      width="600"
-     height="391"
+     height="400"
      title="A T-Rex on display in the Manchester University Museum">
 
 <i>Figure 1 a). The searched fault models.  b) Slip distribution with the planar fault dipping 15°. c) Seismicity projection of Profile AD in (b) along depth. The cyan lines indicate all of the tested listric fault models.</i>
