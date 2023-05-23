@@ -18,7 +18,6 @@ layout: default
 ### Scholarship and Awards
 
 * **Scholarship:**  
-  * Jun. 2020, CSC (China Scholarship Council) Scholarship for Ph.D study in GFZ
   * Dec. 2019, National Scholarship for Graduate Student, Ministry of Education
   * Oct. 2019, First Prize of Academic Scholarship, Whuhan University
   * Sep. 2018, Second Prize of Academic Scholarship, Whuhan University
