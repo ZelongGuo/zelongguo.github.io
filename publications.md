@@ -23,10 +23,9 @@ layout: default
 <hr>
 <p><i><b>Paper as Co-Aothor:</b></i></p>
 
-<p> [2]&nbsp; Xu, G., Wen, Y.<sup>&#9993;</sup>, Yi, Y. & <b>Guo, Z.,</b> Wang. L., and Xu, C. (2023). Geodetic constraints of the 2015 Mw6.5 Alor, East Indonesia earthquake: a strike-slip faulting in the convergent boundary. <i>Geophysical Journal International</i>, ggad2111. <a href=""https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggad211/7176061><b>[Link]</b></a></p>
+<p> [2]&nbsp; Xu, G., Wen, Y.<sup>&#9993;</sup>, Yi, Y., <b>Guo, Z.,</b> Wang. L., & Xu, C. (2023). Geodetic constraints of the 2015 Mw6.5 Alor, East Indonesia earthquake: a strike-slip faulting in the convergent boundary. <i>Geophysical Journal International</i>, ggad2111. <a href=""https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggad211/7176061><b>[Link]</b></a></p>
 
 <p> [1]&nbsp; Zhang, Y., Xu, C.<sup>&#9993;</sup>, Fang, J. & <b>Guo, Z.</b> (2021). Focal mechanism inversion of the 2018 Mw7.1 Anchorage earthquake based on high-rate GPS observation. <i>Geodesy and Geodynamics</i>, 12(6), 381-391. <a href="https://doi.org/10.1016/j.geog.2021.09.004"><b>[Link]</b></a></p>
-
 
 <hr>
 
