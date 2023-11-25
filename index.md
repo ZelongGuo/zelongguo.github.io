@@ -36,6 +36,6 @@ For my Ph.D, my researches focus on postseismic modeling combined with geodetic 
 </table>
 
 
-*updated: 25.11.2023*
-<font size="3"  color="gray">*updated: 25.11.2023*</font> 
+<p style="font-size: 3; color: gray;"><i>updated: 25.11.2023</i></p>
+
 
