@@ -21,7 +21,7 @@ is_contact: true
 
 <!-- setting it with my fontawesome kit -->
 <script src="https://kit.fontawesome.com/c30765c418.js" crossorigin="anonymous"></script>
-<i class="fa-brands fa-github-square fa-2x"></i> [Twitter](https://twitter.com/zelong_guo)
+<i class="fa-brands fa-github-square fa-2xs"></i> [github](https://twitter.com/zelong_guo)
 
 
 ***
