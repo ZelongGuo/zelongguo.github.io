@@ -38,15 +38,36 @@ is_contact: true
 
 ---
 <div style="text-align: left;">
-    <i class="fa-solid fa-envelope fa-2x" style="vertical-align: middle;"></i> zelong.guo@gfz-potsdam.de & zelong.guo@outlook.com 
+    <i class="fa-solid fa-envelope fa-1x" style="vertical-align: middle;"></i> zelong.guo@gfz-potsdam.de & zelong.guo@outlook.com 
 </div>
 
 ---
 <div style="text-align: left;">
-    <i class="fa-regular fa-envelope fa-2x" style="vertical-align: middle;"></i> zelong.guo@gfz-potsdam.de & zelong.guo@outlook.com 
+    <i class="fa-solid fa-phone fa-1x" style="vertical-align: middle;"></i> +49 331 288-1194
 </div>
 
+---
+<div style="text-align: left;">
+    <i class="fa-solid fa-arrow-up-right-from-square fa-1x" style="vertical-align: middle;"></i><a href="https://www.gfz-potsdam.de/en/staff/zelong-guo/sec14/">Personal Web. at GFZ</a>
+</div>
 
+---
+<div style="text-align: left;">
+    <i class="fa-brands fa-orcid fa-1x" style="vertical-align: middle;"></i><a href="https://orcid.org/0000-0001-7064-5961">ORCID</a>
+<a>https://orcid.org/0000-0001-7064-5961</a>
+</div>
+
+---
+<div style="text-align: left;">
+    <i class="fa-brands fa-researchgate fa-1x" style="vertical-align: middle;"></i><a href="https://www.researchgate.net/profile/Zelong-Guo">Research Gate</a>
+<a>https://orcid.org/0000-0001-7064-5961</a>
+</div>
+
+---
+<div style="text-align: left;">
+    <i class="fa-brands fa-x-twitter fa-1x" style="vertical-align: middle;"></i><a href="https://twitter.com/zelong_guo">X (Twitter)</a>
+<a>https://orcid.org/0000-0001-7064-5961</a>
+</div>
 ***
 
 > GFZ German Research Center for Geosciences, Section 1.4   
