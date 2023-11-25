@@ -12,6 +12,11 @@ is_contact: true
 5. [Research Gate](https://www.researchgate.net/profile/Zelong-Guo)  
 6. [Twitter](https://twitter.com/zelong_guo)  
 
+<!-- Using object tag -->
+<object type="image/svg+xml" data="icons/researchgate.svg" width="100" height="100">
+    Research Gate.
+</object>
+
 ***
 
 > GFZ German Research Center for Geosciences, Section 1.4   
