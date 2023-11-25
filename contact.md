@@ -38,12 +38,12 @@ is_contact: true
 
 ---
 <div style="text-align: left;">
-    <i class="fa-solid fa-envelope fa-1.5x" style="vertical-align: middle;"></i> zelong.guo@gfz-potsdam.de & zelong.guo@outlook.com 
+    <i class="fa-solid fa-envelope fa-2x" style="vertical-align: middle;"></i> zelong.guo@gfz-potsdam.de & zelong.guo@outlook.com 
 </div>
 
 ---
 <div style="text-align: left;">
-    <i class="fa-regular fa-envelope fa-1.5x" style="vertical-align: middle;"></i> zelong.guo@gfz-potsdam.de & zelong.guo@outlook.com 
+    <i class="fa-regular fa-envelope fa-2x" style="vertical-align: middle;"></i> zelong.guo@gfz-potsdam.de & zelong.guo@outlook.com 
 </div>
 
 
