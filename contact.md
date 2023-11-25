@@ -20,32 +20,32 @@ is_contact: true
 
 ---
 <div style="text-align: left;">
-    [1]  <i class="fa-solid fa-envelope fa-1x" style="vertical-align: middle;"></i>: zelong.guo@gfz-potsdam.de & zelong.guo@outlook.com 
+    [1] &nbsp;&nbsp; <i class="fa-solid fa-envelope fa-1x" style="vertical-align: middle;"></i>&nbsp; zelong.guo@gfz-potsdam.de & zelong.guo@outlook.com 
 </div>
 
 ---
 <div style="text-align: left;">
-    [2]  <i class="fa-solid fa-phone fa-1x" style="vertical-align: middle;"></i>: +49 331 288-1194
+    [2] &nbsp;&nbsp; <i class="fa-solid fa-phone fa-1x" style="vertical-align: middle;"></i>&nbsp; +49 331 288-1194
 </div>
 
 ---
 <div style="text-align: left;">
-    [3]  <i class="fa-solid fa-arrow-up-right-from-square fa-1x" style="vertical-align: middle;"></i>: <a href="https://www.gfz-potsdam.de/en/staff/zelong-guo/sec14/">Personal Web. at GFZ</a>
+    [3] &nbsp;&nbsp; <i class="fa-solid fa-arrow-up-right-from-square fa-1x" style="vertical-align: middle;"></i>&nbsp; <a href="https://www.gfz-potsdam.de/en/staff/zelong-guo/sec14/">Personal Web. at GFZ</a>
 </div>
 
 ---
 <div style="text-align: left;">
-    [4]  <i class="fa-brands fa-orcid fa-1x" style="color: #55e119; vertical-align: middle;"></i>: <a href="https://orcid.org/0000-0001-7064-5961">ORCID</a>
+    [4] &nbsp;&nbsp; <i class="fa-brands fa-orcid fa-1x" style="color: #a6ce39; vertical-align: middle;"></i>&nbsp; <a href="https://orcid.org/0000-0001-7064-5961">ORCID</a>
 </div>
 
 ---
 <div style="text-align: left;">
-    [5]  <i class="fa-brands fa-researchgate fa-1x" style="vertical-align: middle;"></i>: <a href="https://www.researchgate.net/profile/Zelong-Guo">Research Gate</a>
+    [5] &nbsp;&nbsp; <i class="fa-brands fa-researchgate fa-1x" style="color: #808185; vertical-align: middle;"></i>&nbsp; <a href="https://www.researchgate.net/profile/Zelong-Guo">Research Gate</a>
 </div>
 
 ---
 <div style="text-align: left;">
-    [6]  <i class="fa-brands fa-x-twitter fa-1x" style="vertical-align: middle;"></i>: <a href="https://twitter.com/zelong_guo">X (Twitter)</a>
+    [6] &nbsp;&nbsp; <i class="fa-brands fa-x-twitter fa-1x" style="vertical-align: middle;"></i>&nbsp; <a href="https://twitter.com/zelong_guo">X (Twitter)</a>
 </div>
 ***
 
