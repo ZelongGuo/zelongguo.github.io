@@ -27,7 +27,7 @@ For my Ph.D, my researches focus on postseismic modeling combined with geodetic 
   </tr>
   <tr>
     <td width="15%">Oct 2021</td>
-    <td>Paper on <a href="https://www.sciencedirect.com/science/article/pii/S1674984721000690?via%3Dihub">focal mechanism inversion of the 2018 Mw7.1 Anchorage earthquake</a> published at <i>Geodesy and Geodynamics!  &#128266;</i></td>
+    <td> &#128266; Paper on <a href="https://www.sciencedirect.com/science/article/pii/S1674984721000690?via%3Dihub">focal mechanism inversion of the 2018 Mw7.1 Anchorage earthquake</a> published at <i>Geodesy and Geodynamics!</i></td>
   </tr>
   <tr>
     <td width="15%">Oct 2021</td>
@@ -36,5 +36,5 @@ For my Ph.D, my researches focus on postseismic modeling combined with geodetic 
 </table>
 
 
-> updated: 25, 11, 2023
+*updated: 25.11.2023*
 
