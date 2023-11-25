@@ -21,8 +21,13 @@ is_contact: true
 
 <!-- setting it with my fontawesome kit -->
 <script src="https://kit.fontawesome.com/c30765c418.js" crossorigin="anonymous"></script>
-<i class="fa-brands fa-github-square fa-2xs"></i> [github](https://twitter.com/zelong_guo)
+<!-- <i class="fa-brands fa-github-square fa-2xs"></i> [github](https://twitter.com/zelong_guo) -->
 
+  <div style="text-align: center;">
+    <i class="fa-solid fa-coffee fa-2x"></i>
+    <h4 style="margin-top: 0.25em;">Coffee</h4>
+    <p>"It is inhumane, in <a href="https://www.washingtonpost.com/archive/lifestyle/magazine/1997/11/09/grounds-for-suspicion/075c7cfe-d5cf-4443-ae42-a95e6e46fed7/">my opinion</a>, to force people who have a genuine medical need for coffee to wait in line behind people who apparently view it as some kind of recreational activity."</p>
+  </div>
 
 ***
 
