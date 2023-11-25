@@ -16,6 +16,13 @@ is_contact: true
 <link rel="stylesheet" href="./academicons/css/academicons.min.css"/>
 <i class="ai ai-google-scholar ai-2x ai-pull-left"></i>research gate
 
+<!-- This example uses <i> element with:
+1. the `fa-solid` style class for solid style
+2. the `user` icon with the `fa-` prefix -->
+<i class="fa-solid fa-user"></i>
+
+<!-- Or you can use a <span> element, with classes applied in the same way -->
+<span class="fa-solid fa-user"></span>
 
 ***
 
