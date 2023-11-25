@@ -13,10 +13,6 @@ is_contact: true
 6. [Twitter](https://twitter.com/zelong_guo)  
 
 ---
-<link rel="stylesheet" href="./academicons/css/academicons.min.css"/>
-<i class="ai ai-google-scholar ai-2x ai-pull-left"></i>research gate
-
----
 ---
 
 <!-- setting it with my fontawesome kit -->
@@ -27,6 +23,13 @@ is_contact: true
     <i class="fa-brands fa-github-square fa-2x"></i>
     "It is inhumane, in <a href="https://www.washingtonpost.com/archive/lifestyle/magazine/1997/11/09/grounds-for-suspicion/075c7cfe-d5cf-4443-ae42-a95e6e46fed7/">my opinion</a>, to force people"
   </div>
+
+---
+<div style="text-align: left;">
+    <i class="fa-brands fa-github-square fa-2x" style="vertical-align: middle;"></i>
+    "It is inhumane, in <a href="https://www.washingtonpost.com/archive/lifestyle/magazine/1997/11/09/grounds-for-suspicion/075c7cfe-d5cf-4443-ae42-a95e6e46fed7/">my opinion</a>, to force people"
+</div>
+
 
 ***
 
