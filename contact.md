@@ -17,10 +17,8 @@ is_contact: true
 <i class="ai ai-google-scholar ai-2x ai-pull-left"></i>research gate
 
 ---
-<link rel="stylesheet" href="./fontawesome-free-6.4.2-web/css/brands.css"/>
-<!-- This example uses <i> element with:
-1. the `fa-solid` style class for solid style
-2. the `user` icon with the `fa-` prefix -->
+---
+<script src="https://kit.fontawesome.com/c30765c418.js" crossorigin="anonymous"></script>
 <i class="fa-brands fa-github-square"></i> Github
 
 
