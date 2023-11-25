@@ -35,7 +35,7 @@ is_contact: true
 
 ---
 <div style="text-align: left;">
-    [4]  <i class="fa-brands fa-orcid fa-1x" style="vertical-align: middle;"></i>: <a href="https://orcid.org/0000-0001-7064-5961">ORCID</a>
+    [4]  <i class="fa-brands fa-orcid fa-1x" style="color: #55e119; vertical-align: middle;"></i>: <a href="https://orcid.org/0000-0001-7064-5961">ORCID</a>
 </div>
 
 ---
