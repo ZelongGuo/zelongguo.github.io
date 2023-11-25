@@ -13,10 +13,8 @@ is_contact: true
 6. [Twitter](https://twitter.com/zelong_guo)  
 
 ---
-<!-- Using object tag -->
-<object type="image/svg+xml" data="icons/researchgate.svg" width="40" height="40"><p>
-    Research Gate.
-</p></object>
+<link rel="stylesheet" href="./academicons/css/academicons.min.css"/>
+<i class="ai ai-google-scholar ai-2x ai-pull-left"></i>research gate
 
 
 ***
