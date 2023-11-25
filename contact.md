@@ -12,10 +12,12 @@ is_contact: true
 5. [Research Gate](https://www.researchgate.net/profile/Zelong-Guo)  
 6. [Twitter](https://twitter.com/zelong_guo)  
 
+---
 <!-- Using object tag -->
-<object type="image/svg+xml" data="icons/researchgate.svg" width="100" height="100">
+<object type="image/svg+xml" data="icons/researchgate.svg" width="40" height="40"><p>
     Research Gate.
-</object>
+</p></object>
+
 
 ***
 
