@@ -23,7 +23,7 @@ For my Ph.D, my researches focus on postseismic modeling combined with geodetic 
   </tr>
   <tr>
     <td width="15%">Dec 2022</td>
-    <td>&#128266; New paper associated with <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JB025148"> 2017 Mw7.3 Iran-Iraq earthquake </a>  published on <i><b>JGR:Solid Earth!</b></i> This is the first work for my PhD, trying and keeping exploring interesting things! &#128170 </td>
+    <td>&#128266; New paper associated with <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JB025148"> 2017 Mw7.3 Iran-Iraq earthquake </a>  published on <i><b>JGR:Solid Earth!</b></i> This is the first work for my PhD, trying and keeping exploring interesting things! &#128170; </td>
   </tr>
   <tr>
     <td width="15%">Oct 2021</td>
