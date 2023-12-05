@@ -23,7 +23,7 @@ layout: default
 <hr>
 <p><i><b>Paper as Co-Aothor:</b></i></p>
 
-<p> [2]&nbsp; Peng, M., Motagh, M., Lu, Z.<sup>&#9993;</sup>, Xia, Z., <b>Guo, Z.,</b> Zhao, C. and Liu, Q. (2023). Characterization and prediction of InSAR-derived ground motion with ICA-assisted LSTM model. <i>Remote Sensing of Environment</i>, 301. <a href="https://www.sciencedirect.com/science/article/pii/S0034425723004753?dgcid=coauthor"><b>[Link]</b></a></p>
+<p> [3]&nbsp; Peng, M., Motagh, M., Lu, Z.<sup>&#9993;</sup>, Xia, Z., <b>Guo, Z.,</b> Zhao, C. and Liu, Q. (2023). Characterization and prediction of InSAR-derived ground motion with ICA-assisted LSTM model. <i>Remote Sensing of Environment</i>, 301. <a href="https://www.sciencedirect.com/science/article/pii/S0034425723004753?dgcid=coauthor"><b>[Link]</b></a></p>
 
 <p> [2]&nbsp; Xu, G., Wen, Y.<sup>&#9993;</sup>, Yi, Y., <b>Guo, Z.,</b> Wang. L., & Xu, C. (2023). Geodetic constraints of the 2015 Mw6.5 Alor, East Indonesia earthquake: a strike-slip faulting in the convergent boundary. <i>Geophysical Journal International</i>, ggad2111. <a href="https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggad211/7176061"><b>[Link]</b></a></p>
 
