@@ -33,6 +33,10 @@ layout: default
 
 <h3>Conference</h3>
 
+<p> [5]&nbsp; <b>Guo, Z.,</b> Motagh, M. Fault Geometry and Frictional Afterslip Following the 2017 Mw 7.3 Sarpol-e Zahab (Iran-Iraq) Earthquake: Insights form InSAR and Finite Element Models, <i>20th Wegener Assembly 2023</i>,  Sousse, Tunisia, 2023</p>
+
+<p> [4]&nbsp; <b>Guo, Z.,</b> Motagh, M. Frictional Afterslip Modeling of the 2017 Mw 7.3 Sarpol-e Zahab Earthquake Using InSAR Observations and 2-D Finite Element Method, <i>Fringe 2023</i>, Leeds University, Leeds, UK, 2023.</p>
+
 <p> [3]&nbsp; <b>Guo, Z.,</b> Motagh, M., Hu, J.-C., Xu, G., Haghighi., M. H., Bahroudi, A. & Fathian, A. (2022). Transient aseismic slip and crustal shortening following 2017 Iran-Iraq (Sarpol-e Zahab) Mw 7.3 Earthquake Inferred from 3 years of InSAR Observations, <i>EGU General Assembly 2022</i>, Vienna, Austria, 2022.</p>
 
 <p> [2]&nbsp; <b>Guo, Z.,</b> Wen, Y., Xu, G., Wang, S., Wang, X., Liu, Y., & Xu, C. Slip Distribution of the 2018 Mw6.6 Hokkaido Eastern Iburi, Japan, Earthquake from InSAR and GPS Data (in Chinese), <i>6th Annual Meeting of Chinese Geoscience Union (CGU)</i>, Beijing, China, 2019.</p>
