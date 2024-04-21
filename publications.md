@@ -35,6 +35,8 @@ layout: default
 
 <h3>Conference</h3>
 
+<p> [6]&nbsp; <b>Guo, Z.,</b> Motagh, M., Baes, M. Structural Complexity Revealed by Frictional Afterslip Models and InSAR Observations Following the 2017 Mw 7.3 Sarpol- e Zahab (Iran-Iraq) Earthquake: Insights from Numerical Modeling, <i>EGU General Assembly 2024</i>, Vienna, Austria, 2024</p>
+
 <p> [5]&nbsp; <b>Guo, Z.,</b> Motagh, M. Fault Geometry and Frictional Afterslip Following the 2017 Mw 7.3 Sarpol-e Zahab (Iran-Iraq) Earthquake: Insights form InSAR and Finite Element Models, <i>20th Wegener Assembly 2023</i>,  Sousse, Tunisia, 2023</p>
 
 <p> [4]&nbsp; <b>Guo, Z.,</b> Motagh, M. Frictional Afterslip Modeling of the 2017 Mw 7.3 Sarpol-e Zahab Earthquake Using InSAR Observations and 2-D Finite Element Method, <i>Fringe 2023</i>, Leeds University, Leeds, UK, 2023.</p>
@@ -48,7 +50,7 @@ layout: default
 </body> 
 </html>
 
-<br><br>
+</br></br>
 
 
 
