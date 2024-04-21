@@ -44,6 +44,6 @@ For my Ph.D, my researches focus on postseismic modeling combined with geodetic 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=56ln2hcl5aa&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=0" async="async"></script>
 
 <p style="font-size: 2; color: gray;"><i>Motto: Hope to avoid repeating works that are easy, always.</i></p>
-<p style="font-size: 2; color: gray;"><i>updated: 29.03.2024</i></p>
+<p style="font-size: 2; color: gray;"><i>updated: 21.04.2024</i></p>
 
 
