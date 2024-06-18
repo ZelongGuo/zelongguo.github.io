@@ -18,6 +18,11 @@ For my Ph.D, my researches focus on postseismic modeling combined with geodetic 
 <!-- this is comments -->
 <table style="width:100%">
   <tr>
+    <td width="15%">Jun 2024</td>
+    <td>&#128266; The second paper for the PhD: <a href="https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220230425/644725/Ramp-Flat-and-Splay-Faulting-Illuminated-by">Ramp‐Flat and Splay Faulting Illuminated by Frictional Afterslip Following the 2017 
+ 7.3 Sarpol‐e Zahab Earthquake</a>  published on <i><b>SRL!</b></i> This is a follow-up study after the my first PhD paper. </td>
+  </tr>
+  <tr>
     <td width="15%">Dec 2023</td>
     <td>&#128266; New paper about <a href="https://www.sciencedirect.com/science/article/pii/S0034425723004753?dgcid=coauthor">Characterization and prediction of InSAR-derived ground motion with ICA-assisted LSTM model</a>  published on <i><b>RSE!</b></i> I worked together with the first author <b>Dr. MiMi Peng</b> at GFZ, that was a very enjoyable work experience! Now she has joined Xidian University. </td>
   </tr>
@@ -44,6 +49,6 @@ For my Ph.D, my researches focus on postseismic modeling combined with geodetic 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=56ln2hcl5aa&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=0" async="async"></script>
 
 <p style="font-size: 2; color: gray;"><i>Motto: Hope to avoid repeating works that are easy, always.</i></p>
-<p style="font-size: 2; color: gray;"><i>updated: 06.06.2024</i></p>
+<p style="font-size: 2; color: gray;"><i>updated: 18.06.2024</i></p>
 
 
