@@ -32,4 +32,4 @@ layout: default
   * May. 2014, Bronze Medalist for Surveying and Mapping Contest of Shandong Province, Shandong University of Science and Technology
 
 
-<br><br>
+<br>
