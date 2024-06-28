@@ -3,7 +3,7 @@ layout: default
 ---
 
 <!-- <img src="my_photo6.jpg" /> -->
-<img class="profile-picture" src="my_pho.jpg">
+<img class="profile-picture" src="my_pho4.jpg">
 <!-- this is comments -->
 
 ### About  
@@ -12,7 +12,7 @@ I am a Ph.D candidate of Geodesy/Geophysics in [GFZ German Research Center for G
 
 For my Ph.D, my researches focus on postseismic modeling combined with geodetic inversion, numerical modeling and the analysis of geological tectonics growth, especially for the 2017 Mw 7.3 Iran-Iraq border earthquake.  
 
-*- - - Doing science with interest,  passion and curiosity, I really like the feelings after solving problems. - - -*
+*Doing science with interest,  passion and curiosity, I really like the feelings after solving problems.*
 
 ### News 
 <!-- this is comments -->
