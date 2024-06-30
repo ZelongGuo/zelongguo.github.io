@@ -22,9 +22,9 @@ For my Ph.D, my researches focus on postseismic modeling combined with geodetic 
 #overflow {
     background: white;
     color: black;
-    padding: 1px;
+    padding: 10px;
     width: 100%;
-    height: 500px;
+    height: 400px;
     overflow: scroll;
     border: 1px solid #ccc;
 }
