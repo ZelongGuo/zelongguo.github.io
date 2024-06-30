@@ -35,3 +35,14 @@ table tr th:last-child, table tr td:last-child {
     margin: 0;
     width: 15%;
 }
+
+#overflow {
+    background: white;
+    color: black;
+    padding: 10px;
+    width: 100%;
+    height: 400px;
+    overflow: scroll;
+    border: 1px solid white;
+}
+
