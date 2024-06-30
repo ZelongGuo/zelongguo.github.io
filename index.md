@@ -26,7 +26,7 @@ For my Ph.D, my researches focus on postseismic modeling combined with geodetic 
     width: 100%;
     height: 400px;
     overflow: scroll;
-    border: 1px solid #ccc;
+    border: 1px solid white;
 }
 </style>
 
