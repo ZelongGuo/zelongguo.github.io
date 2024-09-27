@@ -1,0 +1,2 @@
+- Add a link to download the latxe CV
+- Make the repository clearer, delete the unneeded files
