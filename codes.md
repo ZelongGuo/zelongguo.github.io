@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Codes
+### InSAR & Earthquake Modeling
 
 - [S1_TS_proc](https://github.com/ZelongGuo/sarproc/tree/master/S1_TS_proc) ***[shell]***
   - Some **Shell** scripts for automatic batch processing of InSAR data
@@ -15,6 +15,15 @@ layout: default
 - [seislip](https://github.com/ZelongGuo/seislip) ***[Python]***
   - Python codes for co- and post-seismic inversion 
   - ***Under developing ...***
+
+
+### Productive Tools
+
+- [Nvim](https://github.com/ZelongGuo/nvim) ***[lua & vimscript]***  
+  - My vim editor configuration for coding and writing notes (P.S. I love it very much.)
+
+- [.config](https://github.com/ZelongGuo/.config) ***[shell, AppleScript, python ...]****
+  - Other useful utilities like Tmux, ranger, zsh etc.
 
 Please check [my github page](https://github.com/ZelongGuo) out for more detials.  
 
