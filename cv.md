@@ -4,6 +4,8 @@ layout: default
 
 <br>
 
+*The complete PDF version of CV could be found here: [English Version](./cv/cv_en.pdf)*.
+
 ### Education
 
 * Oct. 2020 - present, **Ph.D Candidate in Geodesy**  
