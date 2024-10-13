@@ -4,7 +4,8 @@ layout: default
 
 <br>
 
-*The complete PDF version of CV could be found here: [English Version](./cv/cv_en.pdf)*.
+***The complete PDF version of CV could be found here: [English Version](./cv/cv_en.pdf) and
+[中文版](.cv/cv_en.pdf)***.
 
 ### Education
 
