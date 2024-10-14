@@ -20,10 +20,10 @@ layout: default
 ### Productive Tools
 
 - [Nvim](https://github.com/ZelongGuo/nvim) ***[lua & vimscript]***  
-  - My vim editor configuration for coding and writing notes (P.S. I love it very much.)
+  - My Nvim/Vim editor configuration for coding and writing notes (P.S. I love it very much.)
 
-- [.config](https://github.com/ZelongGuo/.config) ***[shell, AppleScript, python ...]****
-  - Other useful utilities like Tmux, ranger, zsh etc.
+- [.config](https://github.com/ZelongGuo/.config) ***[Shell, AppleScript, Python ...]***
+  - Other useful utilities like Tmux, Ranger, Zsh, Aerospace etc.
 
 Please check [my github page](https://github.com/ZelongGuo) out for more detials.  
 
