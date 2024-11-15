@@ -68,8 +68,8 @@ For my Ph.D, my researches focus on postseismic modeling combined with geodetic 
 <!--
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=56ln2hcl5aa&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=0" async="async"></script>
 -->
-<!-- Now we shift to a new one ... --> 
-<div style="width: 300px; height: 300px; overflow: hidden;">     <!-- adjust the globe size with css -->
+<!-- Now we shift to a new one ... -->  
+<div style="width: 200px; height: 200px; overflow: hidden; margin: 0 auto; display: flex; justify-content: center; align-items: center;">   <!-- adjust the globe size with css -->
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=7UGJKFkyNL9rr4TqW6m9fV-9ccDI5fIbK4JkeQwboqQ"></script>
 </div>
 
