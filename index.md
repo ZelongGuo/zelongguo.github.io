@@ -77,11 +77,6 @@ For my Ph.D, my researches focus on postseismic modeling combined with geodetic 
     display: flex; 
     justify-content: center; 
     align-items: center; 
-    padding: 30px;
-    border: 2px solid gray;  /* 添加边框 */
-    border-radius: 15px;        /* 圆角边框 */
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);  /* 添加阴影 */
-    background-color: white;  /* 背景颜色 */
 ">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=7UGJKFkyNL9rr4TqW6m9fV-9ccDI5fIbK4JkeQwboqQ"></script>
 </div>
