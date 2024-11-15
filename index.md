@@ -3,10 +3,10 @@ layout: default
 ---
 
 <!-- <img src="my_photo6.jpg" /> -->
-<img class="profile-picture" src="my_pho4.jpg">
+<img class="profile-picture" src="./img/my_pho4.jpg">
 <!-- this is comments -->
 
-### About  
+### About Me
 
 I am a Ph.D candidate of Geodesy/Geophysics in [GFZ German Research Center for Geosciences](https://www.gfz-potsdam.de/en/home/) and [Leibniz University Hannover](https://www.uni-hannover.de/en/). Currently I work with Prof. [Mahdi Motagh](https://www.gfz-potsdam.de/en/staff/mahdi-motagh/sec14/) in radar and optical remote sensing for analysis of geohazards group. My research interests span geodetic technique, geophysical inversions and the interpretation of geological tectonic deforamtion.  
 
@@ -14,7 +14,9 @@ For my Ph.D, my researches focus on postseismic modeling combined with geodetic 
 
 *Doing science with interest,  passion and curiosity, I really like the feelings after solving problems.*
 
-### News 
+<!-- -------------------------------------------------------------------------------------------------- -->
+
+### News
 <!-- this is comments -->
 <!--   <td width="15%">Jun 2024</td> -->
 <!-- css overflow format -->
@@ -24,12 +26,13 @@ For my Ph.D, my researches focus on postseismic modeling combined with geodetic 
     color: black;
     padding: 10px;
     width: 100%;
-    height: 400px;
+    height: 600px;
     overflow: scroll;
     border: 1px solid white;
 }
 </style>
 
+ 
 <div id="overflow">
 <table style="width:100%">
   <tr>
@@ -61,8 +64,10 @@ For my Ph.D, my researches focus on postseismic modeling combined with geodetic 
 </div>
 
 <!-- Now revolvermap only shows in the main page.-->
-<!--revolvermap-->
+<!-- Now revolvermap has some problems ... When it resolved just uncomment the following ... -->
+<!--
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=56ln2hcl5aa&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=0" async="async"></script>
+-->
 
 <p style="font-size: 2; color: gray;"><i>Motto: Hope to avoid repeating works that are easy, always.</i></p>
 <p style="font-size: 2; color: gray;"><i>updated: 13.10.2024</i></p>
