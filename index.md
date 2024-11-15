@@ -64,10 +64,12 @@ For my Ph.D, my researches focus on postseismic modeling combined with geodetic 
 </div>
 
 <!-- Now revolvermap only shows in the main page.-->
-<!-- Now revolvermap has some problems ... When it resolved just uncomment the following ... -->
+<!-- Now revolvermap has some problems ... When it resolved just uncomment the following ...   -->
 <!--
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=56ln2hcl5aa&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=0" async="async"></script>
 -->
+<!-- Now we shift to a new one ... --> 
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=7UGJKFkyNL9rr4TqW6m9fV-9ccDI5fIbK4JkeQwboqQ"></script>
 
 <p style="font-size: 2; color: gray;"><i>Motto: Hope to avoid repeating works that are easy, always.</i></p>
 <p style="font-size: 2; color: gray;"><i>updated: 13.10.2024</i></p>
