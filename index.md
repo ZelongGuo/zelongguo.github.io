@@ -68,11 +68,24 @@ For my Ph.D, my researches focus on postseismic modeling combined with geodetic 
 <!--
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=56ln2hcl5aa&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=0" async="async"></script>
 -->
-<!-- Now we shift to a new one ... -->  
-<div style="width: 200px; height: 200px; overflow: hidden; margin: 0 auto; display: flex; justify-content: center; align-items: center;">   <!-- adjust the globe size with css -->
+<!-- Now we shift to a new one ... -->   <!-- adjust the globe size with css -->
+<div style="
+    width: 200px; 
+    height: 200px; 
+    overflow: hidden; 
+    margin: 0 auto; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    border: 2px solid #0077cc;  /* 添加边框 */
+    border-radius: 15px;        /* 圆角边框 */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);  /* 添加阴影 */
+    background-color: white;  /* 背景颜色 */
+">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=7UGJKFkyNL9rr4TqW6m9fV-9ccDI5fIbK4JkeQwboqQ"></script>
 </div>
 
+<!---------------------------------------------------------------------------------- -->
 
 <p style="font-size: 2; color: gray;"><i>Motto: Hope to avoid repeating works that are easy, always.</i></p>
 <p style="font-size: 2; color: gray;"><i>updated: 13.10.2024</i></p>
