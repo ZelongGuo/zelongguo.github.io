@@ -77,7 +77,8 @@ For my Ph.D, my researches focus on postseismic modeling combined with geodetic 
     display: flex; 
     justify-content: center; 
     align-items: center; 
-    border: 2px solid #0077cc;  /* 添加边框 */
+    padding: 30px;
+    border: 2px solid gray;  /* 添加边框 */
     border-radius: 15px;        /* 圆角边框 */
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);  /* 添加阴影 */
     background-color: white;  /* 背景颜色 */
