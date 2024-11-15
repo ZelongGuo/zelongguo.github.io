@@ -70,8 +70,8 @@ For my Ph.D, my researches focus on postseismic modeling combined with geodetic 
 -->
 <!-- Now we shift to a new one ... -->   <!-- adjust the globe size with css -->
 <div style="
-    width: 200px; 
-    height: 200px; 
+    width: 180px; 
+    height: 180px; 
     overflow: hidden; 
     margin: 0 auto; 
     display: flex; 
@@ -84,6 +84,6 @@ For my Ph.D, my researches focus on postseismic modeling combined with geodetic 
 <!---------------------------------------------------------------------------------- -->
 
 <p style="font-size: 2; color: gray;"><i>Motto: Hope to avoid repeating works that are easy, always.</i></p>
-<p style="font-size: 2; color: gray;"><i>updated: 13.10.2024</i></p>
+<p style="font-size: 2; color: gray;"><i>updated: 15.11.2024</i></p>
 
 
