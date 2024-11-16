@@ -74,6 +74,7 @@ For my Ph.D, my researches focus on postseismic modeling combined with geodetic 
     height: 180px; 
     overflow: hidden; 
     margin: 0 auto; 
+    padding: 10px;
     display: flex; 
     justify-content: center; 
     align-items: center; 
