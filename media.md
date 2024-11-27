@@ -3,11 +3,7 @@ layout: default
 ---
 
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Videos</title>
-</head>
+
 <body>
     <h3>Videos</h3>
     <hr>
@@ -24,4 +20,7 @@ layout: default
     </iframe>
 </body>
 </html>
+
+
+
 
