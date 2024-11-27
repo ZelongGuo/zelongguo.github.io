@@ -1,6 +1,9 @@
 - name: "Contact"
   link: "https://zelongguo.github.io/contact"
 
+- name: "Media"
+  link: "https://zelongguo.github.io/media"
+
 - name: "Codes"
   link: "https://zelongguo.github.io/codes"
 
@@ -9,9 +12,6 @@
   
 - name: "CV"
   link: "https://zelongguo.github.io/cv"
-
-- name: "Media"
-  link: "https://zelongguo.github.io/media"
 
 - name: "Home"
   link: "https://zelongguo.github.io/"
