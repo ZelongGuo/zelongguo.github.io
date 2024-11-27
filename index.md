@@ -26,7 +26,7 @@ For my Ph.D, my researches focus on postseismic modeling combined with geodetic 
     color: black;
     padding: 10px;
     width: 100%;
-    height: 600px;
+    height: 560px;
     overflow: scroll;
     border: 1px solid white;
 }
