@@ -26,7 +26,7 @@ For my Ph.D, my researches focus on postseismic modeling combined with geodetic 
     color: black;
     padding: 10px;
     width: 100%;
-    height: 500px;
+    height: 600px;
     overflow: scroll;
     border: 1px solid white;
 }
@@ -35,6 +35,10 @@ For my Ph.D, my researches focus on postseismic modeling combined with geodetic 
  
 <div id="overflow">
 <table style="width:100%">
+  <tr>
+    <td>Nov 2024</td>
+    <td>&#128266; I uploaded my very first Nvim YouTube video of being a content creator! Please check it out <a href="https://youtu.be/G--6WTxMwyM">here!</a></td>
+  </tr>
   <tr>
     <td>Jun 2024</td>
     <td>&#128266; The second paper for the PhD: <a href="https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220230425/644725/Ramp-Flat-and-Splay-Faulting-Illuminated-by">Ramp‐Flat and Splay Faulting Illuminated by Frictional Afterslip Following the 2017 
@@ -85,6 +89,6 @@ For my Ph.D, my researches focus on postseismic modeling combined with geodetic 
 <!---------------------------------------------------------------------------------- -->
 
 <p style="font-size: 2; color: gray;"><i>Motto: Hope to avoid repeating works that are easy, always.</i></p>
-<p style="font-size: 2; color: gray;"><i>updated: 15.11.2024</i></p>
+<p style="font-size: 2; color: gray;"><i>updated: 27.11.2024</i></p>
 
 
