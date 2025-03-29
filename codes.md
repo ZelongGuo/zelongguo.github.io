@@ -8,9 +8,9 @@ layout: default
   - Some **Shell** scripts for automatic batch processing of InSAR data
   - Now only Sentinel-1 data based on GAMMA
 
-- [dislocation](https://github.com/ZelongGuo/dislocation) ***[C + Python]***
-  - A **Python C extension** for calculating deformation, stress and strain with rectangular and triangular dialocation
-  - *Still under developing ... Okada model is already supported, triangular elements will be integrated soon ...*
+- [dislocs](https://github.com/ZelongGuo/dislocs) ***[C + Python]***
+  - A **Python C extension** for calculating deformation, stress and strain with rectangular and triangular dislocation elements in elastic half space
+  - It is available from PYPI now! Please check it out!
 
 - [seislip](https://github.com/ZelongGuo/seislip) ***[Python]***
   - Python codes for co- and post-seismic inversion 
