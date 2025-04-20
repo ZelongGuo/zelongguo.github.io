@@ -36,8 +36,12 @@ For my Ph.D, my researches focus on postseismic modeling combined with geodetic 
 <div id="overflow">
 <table style="width:100%">
   <tr>
+    <td>Apr 2025</td>
+    <td>&#128266; Finally! I defensed my PhD degree successfully in Hannover! Time to think about future.</td>
+  </tr>
+  <tr>
     <td>Mar 2025</td>
-    <td>&#128266; My Disloc(ation)s Python C Extension which is a classical Okada and TDEs implementations has been uploaded to Pypi! Please check it out <a href="https://github.com/ZelongGuo/dislocs">in my github repository!</a></td>
+    <td>&#128266; <b>My Disloc(ation)s Python C Extension</b> which is a classical Okada and TDEs implementations has been uploaded to Pypi! Please check it out <a href="https://github.com/ZelongGuo/dislocs">in my github repository!</a></td>
   </tr>
   <tr>
     <td>Nov 2024</td>
@@ -93,6 +97,6 @@ For my Ph.D, my researches focus on postseismic modeling combined with geodetic 
 <!---------------------------------------------------------------------------------- -->
 
 <p style="font-size: 2; color: gray;"><i>Motto: Hope to avoid repeating works that are easy, always.</i></p>
-<p style="font-size: 2; color: gray;"><i>updated: 29.03.2025</i></p>
+<p style="font-size: 2; color: gray;"><i>updated: 20.04.2025</i></p>
 
 
