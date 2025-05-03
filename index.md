@@ -37,7 +37,7 @@ For my Ph.D, my researches focus on postseismic modeling combined with geodetic 
 <table style="width:100%">
   <tr>
     <td>Apr 2025</td>
-    <td>&#128266; Finally! I defensed my PhD degree successfully in Hannover! Time to think about future.</td>
+    <td>&#128266; Finally! I defensed my PhD degree successfully in Hannover with a "very very good grade"! Time to think about future.</td>
   </tr>
   <tr>
     <td>Mar 2025</td>
@@ -97,6 +97,6 @@ For my Ph.D, my researches focus on postseismic modeling combined with geodetic 
 <!---------------------------------------------------------------------------------- -->
 
 <p style="font-size: 2; color: gray;"><i>Motto: Hope to avoid repeating works that are easy, always.</i></p>
-<p style="font-size: 2; color: gray;"><i>updated: 20.04.2025</i></p>
+<p style="font-size: 2; color: gray;"><i>updated: 03.05.2025</i></p>
 
 
