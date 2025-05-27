@@ -7,6 +7,11 @@ layout: default
 *The complete PDF version of CV could be found here: **[[English Version](./cv/cv_en.pdf)]** and
 **[[中文版](./cv/cv_cn.pdf)]***.
 
+### Work Experience
+
+* Apr. 2025 - present, **Scientific Assistant**  
+  * [GFZ German Research Centre for Geosciences](https://www.gfz-potsdam.de/en/home/), Potsdam, Germany
+
 ### Education
 
 * Oct. 2020 - present, **Ph.D Candidate in Geodesy**  

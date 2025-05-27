@@ -97,6 +97,6 @@ For my Ph.D, my researches focus on postseismic modeling combined with geodetic 
 <!---------------------------------------------------------------------------------- -->
 
 <p style="font-size: 2; color: gray;"><i>Motto: Hope to avoid repeating works that are easy, always.</i></p>
-<p style="font-size: 2; color: gray;"><i>updated: 03.05.2025</i></p>
+<p style="font-size: 2; color: gray;"><i>updated: 27.05.2025</i></p>
 
 
