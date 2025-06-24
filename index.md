@@ -8,11 +8,7 @@ layout: default
 
 ### About Me
 
-I am a Ph.D candidate of Geodesy/Geophysics in [GFZ German Research Center for Geosciences](https://www.gfz-potsdam.de/en/home/) and [Leibniz University Hannover](https://www.uni-hannover.de/en/). Currently I work with Prof. [Mahdi Motagh](https://www.gfz-potsdam.de/en/staff/mahdi-motagh/sec14/) in radar and optical remote sensing for analysis of geohazards group. My research interests span geodetic technique, geophysical inversions and the interpretation of geological tectonic deforamtion.  
-
-For my Ph.D, my researches focus on postseismic modeling combined with geodetic inversion, numerical modeling and the analysis of geological tectonics growth, especially for the 2017 Mw 7.3 Iran-Iraq border earthquake.  
-
-*Doing science with interest,  passion and curiosity, I really like the feelings after solving problems.*
+I got my PhD degree in Geodesy/Geophysics at [GFZ German Research Center for Geosciences](https://www.gfz-potsdam.de/en/home/) and [Leibniz University Hannover](https://www.uni-hannover.de/en/), and worked with Prof. [Mahdi Motagh](https://www.gfz-potsdam.de/en/staff/mahdi-motagh/sec14/) in radar and optical remote sensing for analysis of geohazards group. My research interests span geodetic technique, geophysical inversions and the interpretation of geological tectonic deformation.  
 
 <!-- -------------------------------------------------------------------------------------------------- -->
 
