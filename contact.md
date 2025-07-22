@@ -19,8 +19,7 @@ is_contact: true
 <script src="https://kit.fontawesome.com/c30765c418.js" crossorigin="anonymous"></script>
 
 <div style="text-align: left;">
-    [1] &nbsp; <i class="fa-solid fa-envelope fa-1x" style="vertical-align: middle;"></i>&nbsp; zelong.guo@gfz-potsdam.de & zelong.guo@outlook.com 
-</div>
+    [1] &nbsp; <i class="fa-solid fa-envelope fa-1x" style="vertical-align: middle;"></i>&nbsp; zelongguo@whu.edu.cn & zelong.guo@outlook.com  </div>
 
 <div style="text-align: left;">
     [2] &nbsp; <i class="fa-solid fa-phone fa-1x" style="vertical-align: middle;"></i>&nbsp; +49 331 288-1194
