@@ -34,6 +34,10 @@ I got my PhD degree in Geodesy/Geophysics at [GFZ German Research Center for Geo
 <div id="overflow">
 <table style="width:100%">
   <tr>
+    <td>Jul 2025</td>
+    <td>&#128266; Just for fun! My DIY earthquake map has deployed at <a href="https://zelongguo.github.io/eqsmap">EQsMAP!</a></td>
+  </tr>
+  <tr>
     <td>Apr 2025</td>
     <td>&#128266; Finally! I defensed my PhD degree successfully in Hannover with a "very very good grade"! Time to think about future.</td>
   </tr>
