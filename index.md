@@ -10,8 +10,6 @@ layout: default
 
 I got my PhD degree in Geodesy/Geophysics at [GFZ German Research Center for Geosciences](https://www.gfz-potsdam.de/en/home/) and [Leibniz University Hannover](https://www.uni-hannover.de/en/), and worked with Prof. [Mahdi Motagh](https://www.gfz-potsdam.de/en/staff/mahdi-motagh/sec14/) in radar and optical remote sensing for analysis of geohazards group. My research interests span geodetic technique, geophysical inversions and the interpretation of geological tectonic deformation.  
 
-#### My GFZ email account is not accessible now, please get in touch with my WHU (zelongguo@whu.edu.cn) or outlook (zelong.guo@outlook.com) accounts. Thanks!
-
 <!-- -------------------------------------------------------------------------------------------------- -->
 
 ### News
@@ -33,6 +31,10 @@ I got my PhD degree in Geodesy/Geophysics at [GFZ German Research Center for Geo
  
 <div id="overflow">
 <table style="width:100%">
+  <tr>
+    <td>Dec 2025</td>
+    <td>&#128266; I have joined AITech as a lecturer! A new chapter begins.</td>
+  </tr>
   <tr>
     <td>Jul 2025</td>
     <td>&#128266; Just for fun! My DIY earthquake map has deployed at <a href="https://zelongguo.github.io/eqsmap">EQsMAP!</a></td>
