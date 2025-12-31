@@ -101,6 +101,6 @@ I got my PhD degree in Geodesy/Geophysics at [GFZ German Research Center for Geo
 <!---------------------------------------------------------------------------------- -->
 
 <p style="font-size: 2; color: gray;"><i>Motto: Hope to avoid repeating works that are easy, always.</i></p>
-<p style="font-size: 2; color: gray;"><i>updated: 28.07.2025</i></p>
+<p style="font-size: 2; color: gray;"><i>updated: 31.12.2025</i></p>
 
 
