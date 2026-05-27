@@ -14,7 +14,7 @@ layout: default
 
 - [seislip](https://github.com/ZelongGuo/seislip) ***[Python]***
   - Python codes for co- and post-seismic inversion 
-  - ***Under developing ...***
+  - ***Under development ...***
 
 
 ### Productive Tools
@@ -25,5 +25,5 @@ layout: default
 - [.config](https://github.com/ZelongGuo/.config) ***[Shell, AppleScript, Python ...]***
   - Other useful utilities like Tmux, Ranger, Zsh, Aerospace etc.
 
-Please check [my github page](https://github.com/ZelongGuo) out for more detials.  
+Please check [my github page](https://github.com/ZelongGuo) out for more details.  
 

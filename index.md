@@ -41,7 +41,7 @@ I got my PhD degree in Geodesy/Geophysics at [GFZ German Research Center for Geo
   </tr>
   <tr>
     <td>Apr 2025</td>
-    <td>&#128266; Finally! I defensed my PhD degree successfully in Hannover with a "very very good grade"! Time to think about future.</td>
+    <td>&#128266; Finally! I defended my PhD degree successfully in Hannover with a "very very good grade"! Time to think about future.</td>
   </tr>
   <tr>
     <td>Mar 2025</td>

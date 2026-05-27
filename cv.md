@@ -9,7 +9,10 @@ layout: default
 
 ### Work Experience
 
-* Apr. 2025 - present, **Scientific Assistant**  
+* Dec. 2025 - present, **Lecturer**  
+  * [Aerospace Information Technology University (AITech), School of Remote Sensing Science and Technology](https://www.aitech.edu.cn/), Jinan, China
+
+* Apr. 2025 - Aug. 2025, **Scientific Assistant**  
   * [GFZ German Research Centre for Geosciences](https://www.gfz-potsdam.de/en/home/), Potsdam, Germany
 
 ### Education
@@ -27,9 +30,9 @@ layout: default
 
 * **Scholarship:**  
   * Dec. 2019, National Scholarship for Graduate Student, Ministry of Education
-  * Oct. 2019, First Prize of Academic Scholarship, Whuhan University
-  * Sep. 2018, Second Prize of Academic Scholarship, Whuhan University
-  * Sep. 2017, Second Prize of Academic Scholarship, Whuhan University
+  * Oct. 2019, First Prize of Academic Scholarship, Wuhan University
+  * Sep. 2018, Second Prize of Academic Scholarship, Wuhan University
+  * Sep. 2017, Second Prize of Academic Scholarship, Wuhan University
   * Dec. 2014, Jianyuan Scholarship, Shandong University of Science and Technology
 * **Awards:**  
   * Jun. 2020, Excellent Graduate Student, School of Geodesy and Geomatics

@@ -11,11 +11,11 @@ layout: default
 <h3>Paper</h3>
 
 <hr>
-<p><i><b>Paper as First or Corresponding Aothor:</b></i></p>
+<p><i><b>Paper as First or Corresponding Author:</b></i></p>
 
 <p> [4]&nbsp; <b>Guo, Z.</b><sup>&#9993;</sup>, Baes, M., Motagh, M. (2024). Ramp-Flat and Splay Faulting Illuminated by Frictional Afterslip Following the 2017 Mw 7.3 Sarpol-e Zahab Earthquake. <i>Seismological Research Letters, online.</i> <a href="https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220230425/644725/Ramp-Flat-and-Splay-Faulting-Illuminated-by"><b>[Link]</b></a></p>
 
-<p> [3]&nbsp; <b>Guo, Z.</b><sup>&#9993;</sup>, Motagh, M., Hu, J.-C., Xu, G., Haghighi., M. H., Bahroudi, A.  Fathian, A. & Li S. (2022). Depth-varing Friction on a Ramp-flat Fault Illuminated by ~3-yesr InSAR Observations Following the 2017 Mw 7.3 Sarpol-e Zahab Earthquake. <i><b>Journal of Geophysical Research: Solid Earth</b></i>, 127. <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JB025148"><b>[Link]</b></a></p>
+<p> [3]&nbsp; <b>Guo, Z.</b><sup>&#9993;</sup>, Motagh, M., Hu, J.-C., Xu, G., Haghighi., M. H., Bahroudi, A.  Fathian, A. & Li S. (2022). Depth-varying Friction on a Ramp-flat Fault Illuminated by ~3-yesr InSAR Observations Following the 2017 Mw 7.3 Sarpol-e Zahab Earthquake. <i><b>Journal of Geophysical Research: Solid Earth</b></i>, 127. <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JB025148"><b>[Link]</b></a></p>
 
 <p> [2]&nbsp; <b>Guo, Z.,</b> Wen, Y.<sup>&#9993;</sup>, Xu, G., Wang, S., Wang, X., Liu, Y., & Xu, C. (2019). Fault Slip Model of the 2018 Mw 6.6 Hokkaido Eastern Iburi, Japan, Earthquake Estimated from Satellite Radar and GPS Measurements. <i>Remote Sensing</i>, 11(14). <a href="https://doi.org/10.3390/rs11141667"><b>[Link]</b></a></p>
 
