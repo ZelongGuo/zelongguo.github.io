@@ -82,6 +82,7 @@ I got my PhD degree in Geodesy/Geophysics at [GFZ German Research Center for Geo
 <!-- Visitor Map Widget (self-hosted Cloudflare Worker, see worker/README.md for deployment) -->
 <script src="https://visitor-map.zlguo0928.workers.dev/widget.js?tk=9110fadd0e38b69680d7ad6ea736e75a"></script>
 
+<script defer src="https://cloud.umami.is/script.js" data-website-id="71cfc129-c9e1-4087-b57f-1024389cc540"></script>
 
 <!---------------------------------------------------------------------------------- -->
 
