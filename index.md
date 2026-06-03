@@ -79,29 +79,13 @@ I got my PhD degree in Geodesy/Geophysics at [GFZ German Research Center for Geo
 </table>
 </div>
 
-<!-- Now revolvermap only shows in the main page.-->
-<!-- Now revolvermap has some problems ... When it resolved just uncomment the following ...   -->
-<!--
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=56ln2hcl5aa&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=0" async="async"></script>
--->
-<!-- Now we shift to a new one ... -->   <!-- adjust the globe size with css -->
-<div style="
-    width: 180px; 
-    height: 180px; 
-    overflow: hidden; 
-    margin: 0 auto; 
-    padding: 8px;
-    display: flex; 
-    justify-content: center; 
-    align-items: center; 
-">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=7UGJKFkyNL9rr4TqW6m9fV-9ccDI5fIbK4JkeQwboqQ"></script>
-</div>
+<!-- Visitor Map Widget (self-hosted Cloudflare Worker, see worker/README.md for deployment) -->
+<script src="https://visitor-map.zlguo0928.workers.dev/widget.js"></script>
 
 
 <!---------------------------------------------------------------------------------- -->
 
-<p style="font-size: 2; color: gray;"><i>Motto: Hope to avoid repeating works that are easy, always.</i></p>
-<p style="font-size: 2; color: gray;"><i>updated: 31.12.2025</i></p>
+<p style="color: gray;"><i>Motto: Hope to avoid repeating works that are easy, always.</i></p>
+<p style="color: gray;"><i>updated: 31.12.2025</i></p>
 
 
