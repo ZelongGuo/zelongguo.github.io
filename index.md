@@ -105,7 +105,7 @@ I got my PhD degree in Geodesy/Geophysics at [GFZ German Research Center for Geo
 <!-- Homepage Intelligence — self-hosted visitor tracking -->
 <script>
 (function(){
-  var EP='https://homepage-intel.zlguo0928.workers.dev/track';
+  var EP='https://homepage-intelligence.vercel.app/api/track';
   var ua=navigator.userAgent.toLowerCase();
   var br=ua.indexOf('edg/')>-1?'Edge':ua.indexOf('chrome/')>-1?'Chrome':ua.indexOf('safari/')>-1&&ua.indexOf('chrome')===-1?'Safari':ua.indexOf('firefox/')>-1?'Firefox':encodeURIComponent(navigator.userAgent.slice(0,50));
   var os=ua.indexOf('windows')>-1?'Windows':ua.indexOf('mac os')>-1?'macOS':ua.indexOf('android')>-1?'Android':ua.indexOf('linux')>-1?'Linux':(ua.indexOf('ios')>-1||ua.indexOf('iphone')>-1||ua.indexOf('ipad')>-1)?'iOS':'Other';
