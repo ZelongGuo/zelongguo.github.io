@@ -1,0 +1,35 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width"><title>Network Test</title><style>
+body{font-family:-apple-system,sans-serif;max-width:500px;margin:20px auto;padding:16px}
+h2{margin:4px 0}.ok{color:green}.fail{color:red}.test{color:gray}
+</style></head><body>
+<h2>Network Connectivity Test</h2><p class="test">Testing which tracking endpoints are reachable from your network...</p>
+<div id="results"></div>
+<script>
+var endpoints = [
+  {label:'Vercel', url:'https://homepage-intelligence.vercel.app/api/track?browser=Test&os=Test&device=Desktop&nonce=conn-test'},
+  {label:'Cloudflare Pages', url:'https://homepage-intel-pages.pages.dev/api/track?browser=Test&os=Test&device=Desktop&nonce=conn-test'},
+  {label:'Cloudflare Worker', url:'https://homepage-intel.zlguo0928.workers.dev/track?browser=Test&os=Test&device=Desktop&nonce=conn-test'}
+];
+var div = document.getElementById('results');
+var total = endpoints.length, done = 0;
+function show(label, ok, ms) {
+  var el = document.createElement('p');
+  el.innerHTML = (ok?'<span class=ok>✅':'<span class=fail>❌') + ' ' + label + '</span> (' + ms + 'ms)';
+  div.appendChild(el);
+  done++;
+  if (done === total) {
+    var p = document.createElement('p');
+    var allFail = endpoints.every(function(_){return false;});
+    p.innerHTML = '<br><b>If all are ❌, none of the tracking domains are reachable from your network.</b>';
+    div.appendChild(p);
+  }
+}
+endpoints.forEach(function(ep) {
+  var start = Date.now();
+  var img = new Image();
+  img.onload = function(){ show(ep.label, true, Date.now()-start); };
+  img.onerror = function(){ show(ep.label, false, Date.now()-start); };
+  setTimeout(function(){ if(!img.complete){ img.src=''; show(ep.label, false, 'timeout'); } }, 5000);
+  img.src = ep.url + '&_cb=' + Math.random();
+});
+</script></body></html>

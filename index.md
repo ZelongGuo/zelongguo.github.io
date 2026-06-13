@@ -115,6 +115,7 @@ I got my PhD degree in Geodesy/Geophysics at [GFZ German Research Center for Geo
   // Dual endpoints — Vercel (primary) + Worker (fallback)
   var EPS=[
     'https://homepage-intelligence.vercel.app/api/track',
+    'https://homepage-intel-pages.pages.dev/api/track',
     'https://homepage-intel.zlguo0928.workers.dev/track'
   ];
   function send(u){
