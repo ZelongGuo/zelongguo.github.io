@@ -102,24 +102,30 @@ I got my PhD degree in Geodesy/Geophysics at [GFZ German Research Center for Geo
 <!-- Visitor Map Widget (self-hosted Cloudflare Worker, see worker/README.md for deployment) --> 
 <!-- <script src="https://visitor-map.zlguo0928.workers.dev/widget.js?tk=9110fadd0e38b69680d7ad6ea736e75a"></script> -->
 
-<!-- Homepage Intelligence — self-hosted visitor tracking -->
+<!-- Homepage Intelligence — dual-endpoint tracking for maximum reliability -->
 <script>
 (function(){
-  var EP='https://homepage-intelligence.vercel.app/api/track';
   var ua=navigator.userAgent.toLowerCase();
   var br=ua.indexOf('edg/')>-1?'Edge':ua.indexOf('chrome/')>-1?'Chrome':ua.indexOf('safari/')>-1&&ua.indexOf('chrome')===-1?'Safari':ua.indexOf('firefox/')>-1?'Firefox':encodeURIComponent(navigator.userAgent.slice(0,50));
   var os=ua.indexOf('windows')>-1?'Windows':ua.indexOf('mac os')>-1?'macOS':ua.indexOf('android')>-1?'Android':ua.indexOf('linux')>-1?'Linux':(ua.indexOf('ios')>-1||ua.indexOf('iphone')>-1||ua.indexOf('ipad')>-1)?'iOS':'Other';
   var dv=ua.indexOf('mobile')>-1?'Mobile':ua.indexOf('tablet')>-1||ua.indexOf('ipad')>-1?'Tablet':'Desktop';
   var K='_hi_n',T=300000,n=Math.random().toString(36).slice(2)+Date.now().toString(36);
   try{var s=sessionStorage.getItem(K);if(s){var p=s.split('|');if(Date.now()-parseInt(p[1])<T)n=p[0];}sessionStorage.setItem(K,n+'|'+Date.now());}catch(_){}
-  var url=EP+'?browser='+br+'&os='+os+'&device='+dv+'&nonce='+n;
-  // XHR GET: no CORS preflight, works in all browsers
+  var q='?browser='+br+'&os='+os+'&device='+dv+'&nonce='+n;
+  // Dual endpoints — Vercel (primary) + Worker (fallback)
+  var EPS=[
+    'https://homepage-intelligence.vercel.app/api/track',
+    'https://homepage-intel.zlguo0928.workers.dev/track'
+  ];
+  function send(u){
+    // XHR
+    try{var x=new XMLHttpRequest();x.open('GET',u,true);x.timeout=4000;x.send();}catch(e){}
+    // Image pixel fallback (most reliable, works even if XHR blocked)
+    setTimeout(function(){try{(new Image(1,1)).src=u+'&_t=1';}catch(e){}},600);
+  }
   setTimeout(function(){
-    var x=new XMLHttpRequest();
-    x.open('GET',url,true);
-    x.timeout=5000;
-    x.send();
-  },500);
+    for(var i=0;i<EPS.length;i++) send(EPS[i]+q);
+  },300);
 })();
 </script>
 
