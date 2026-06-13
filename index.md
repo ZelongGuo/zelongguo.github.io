@@ -102,23 +102,24 @@ I got my PhD degree in Geodesy/Geophysics at [GFZ German Research Center for Geo
 <!-- Visitor Map Widget (self-hosted Cloudflare Worker, see worker/README.md for deployment) --> 
 <!-- <script src="https://visitor-map.zlguo0928.workers.dev/widget.js?tk=9110fadd0e38b69680d7ad6ea736e75a"></script> -->
 
-<!-- Homepage Intelligence — fires AFTER page load, never blocks rendering -->
+<!-- Homepage Intelligence — self-hosted visitor tracking -->
 <script>
 (function(){
+  var EP='https://homepage-intel.zlguo0928.workers.dev/track';
   var ua=navigator.userAgent.toLowerCase();
-  var br=ua.indexOf('edg/')>-1?'Edge':ua.indexOf('chrome/')>-1?'Chrome':ua.indexOf('safari/')>-1&&ua.indexOf('chrome')===-1?'Safari':ua.indexOf('firefox/')>-1?'Firefox':encodeURIComponent(navigator.userAgent.slice(0,40));
+  var br=ua.indexOf('edg/')>-1?'Edge':ua.indexOf('chrome/')>-1?'Chrome':ua.indexOf('safari/')>-1&&ua.indexOf('chrome')===-1?'Safari':ua.indexOf('firefox/')>-1?'Firefox':encodeURIComponent(navigator.userAgent.slice(0,50));
   var os=ua.indexOf('windows')>-1?'Windows':ua.indexOf('mac os')>-1?'macOS':ua.indexOf('android')>-1?'Android':ua.indexOf('linux')>-1?'Linux':(ua.indexOf('ios')>-1||ua.indexOf('iphone')>-1||ua.indexOf('ipad')>-1)?'iOS':'Other';
   var dv=ua.indexOf('mobile')>-1?'Mobile':ua.indexOf('tablet')>-1||ua.indexOf('ipad')>-1?'Tablet':'Desktop';
   var K='_hi_n',T=300000,n=Math.random().toString(36).slice(2)+Date.now().toString(36);
   try{var s=sessionStorage.getItem(K);if(s){var p=s.split('|');if(Date.now()-parseInt(p[1])<T)n=p[0];}sessionStorage.setItem(K,n+'|'+Date.now());}catch(_){}
-  function track(){
-    var url='https://homepage-intel.zlguo0928.workers.dev/track?browser='+br+'&os='+os+'&device='+dv+'&nonce='+n;
-    // fetch no-cors: no CORS preflight, doesn't block page, silent failure
-    if(window.fetch){fetch(url,{mode:'no-cors'}).catch(function(){});}
-    else{(new Image()).src=url;}
-  }
-  if(document.readyState==='complete'){setTimeout(track,200);}
-  else{window.addEventListener('load',function(){setTimeout(track,200);});}
+  var url=EP+'?browser='+br+'&os='+os+'&device='+dv+'&nonce='+n;
+  // XHR GET: no CORS preflight, works in all browsers
+  setTimeout(function(){
+    var x=new XMLHttpRequest();
+    x.open('GET',url,true);
+    x.timeout=5000;
+    x.send();
+  },500);
 })();
 </script>
 
