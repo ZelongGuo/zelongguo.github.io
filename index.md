@@ -102,7 +102,7 @@ I got my PhD degree in Geodesy/Geophysics at [GFZ German Research Center for Geo
 <!-- Visitor Map Widget (self-hosted Cloudflare Worker, see worker/README.md for deployment) --> 
 <!-- <script src="https://visitor-map.zlguo0928.workers.dev/widget.js?tk=9110fadd0e38b69680d7ad6ea736e75a"></script> -->
 
-<!-- Homepage Intelligence — pixel tracking (zero CORS, 100% reliable) -->
+<!-- Homepage Intelligence — fires AFTER page load, never blocks rendering -->
 <script>
 (function(){
   var ua=navigator.userAgent.toLowerCase();
@@ -111,10 +111,16 @@ I got my PhD degree in Geodesy/Geophysics at [GFZ German Research Center for Geo
   var dv=ua.indexOf('mobile')>-1?'Mobile':ua.indexOf('tablet')>-1||ua.indexOf('ipad')>-1?'Tablet':'Desktop';
   var K='_hi_n',T=300000,n=Math.random().toString(36).slice(2)+Date.now().toString(36);
   try{var s=sessionStorage.getItem(K);if(s){var p=s.split('|');if(Date.now()-parseInt(p[1])<T)n=p[0];}sessionStorage.setItem(K,n+'|'+Date.now());}catch(_){}
-  (new Image()).src='https://homepage-intel.zlguo0928.workers.dev/track?browser='+br+'&os='+os+'&device='+dv+'&nonce='+n;
+  function track(){
+    var url='https://homepage-intel.zlguo0928.workers.dev/track?browser='+br+'&os='+os+'&device='+dv+'&nonce='+n;
+    // fetch no-cors: no CORS preflight, doesn't block page, silent failure
+    if(window.fetch){fetch(url,{mode:'no-cors'}).catch(function(){});}
+    else{(new Image()).src=url;}
+  }
+  if(document.readyState==='complete'){setTimeout(track,200);}
+  else{window.addEventListener('load',function(){setTimeout(track,200);});}
 })();
 </script>
-<noscript><img src="https://homepage-intel.zlguo0928.workers.dev/track?browser=NoJS&os=Unknown&device=Unknown&nonce=noscript" width="1" height="1" alt=""></noscript>
 
 
 <script defer src="https://cloud.umami.is/script.js" data-website-id="71cfc129-c9e1-4087-b57f-1024389cc540"></script>
