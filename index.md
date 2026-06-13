@@ -102,8 +102,22 @@ I got my PhD degree in Geodesy/Geophysics at [GFZ German Research Center for Geo
 <!-- Visitor Map Widget (self-hosted Cloudflare Worker, see worker/README.md for deployment) --> 
 <!-- <script src="https://visitor-map.zlguo0928.workers.dev/widget.js?tk=9110fadd0e38b69680d7ad6ea736e75a"></script> -->
 
-<script src="https://homepage-intel.zlguo0928.workers.dev/widget.js"
-        data-endpoint="https://homepage-intel.zlguo0928.workers.dev/track"></script>
+<!-- Homepage Intelligence — inline tracking (no external script, works even behind strict networks) -->
+<script>
+(function(){
+  var EP='https://homepage-intel.zlguo0928.workers.dev/track';
+  function D(e){try{return e}catch(_){return''}}
+  var ua=navigator.userAgent,uaL=ua.toLowerCase();
+  var br=uaL.indexOf('edg/')>-1?'Edge':uaL.indexOf('chrome/')>-1?'Chrome':uaL.indexOf('safari/')>-1&&uaL.indexOf('chrome')===-1?'Safari':uaL.indexOf('firefox/')>-1?'Firefox':D(ua.slice(0,40));
+  var os=uaL.indexOf('windows')>-1?'Windows':uaL.indexOf('mac os')>-1?'macOS':uaL.indexOf('android')>-1?'Android':uaL.indexOf('linux')>-1?'Linux':uaL.indexOf('ios')>-1||uaL.indexOf('iphone')>-1||uaL.indexOf('ipad')>-1?'iOS':'Other';
+  var dv=uaL.indexOf('mobile')>-1?'Mobile':uaL.indexOf('tablet')>-1||uaL.indexOf('ipad')>-1?'Tablet':'Desktop';
+  var K='_hi_n',T=300000,b=Math.random().toString(36).slice(2)+Date.now().toString(36);
+  try{var s=sessionStorage.getItem(K);if(s){var p=s.split('|');if(Date.now()-parseInt(p[1])<T)b=p[0];}sessionStorage.setItem(K,b+'|'+Date.now());}catch(_){}
+  var payload=JSON.stringify({browser:br,os:os,device:dv,nonce:b});
+  if(navigator.sendBeacon){navigator.sendBeacon(EP,new Blob([payload],{type:'application/json'}));}
+  else{var x=new XMLHttpRequest();x.open('POST',EP,true);x.setRequestHeader('Content-Type','application/json');x.timeout=3000;x.send(payload);}
+})();
+</script>
 
 
 <script defer src="https://cloud.umami.is/script.js" data-website-id="71cfc129-c9e1-4087-b57f-1024389cc540"></script>
