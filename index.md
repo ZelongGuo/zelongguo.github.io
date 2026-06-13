@@ -102,7 +102,7 @@ I got my PhD degree in Geodesy/Geophysics at [GFZ German Research Center for Geo
 <!-- Visitor Map Widget (self-hosted Cloudflare Worker, see worker/README.md for deployment) --> 
 <!-- <script src="https://visitor-map.zlguo0928.workers.dev/widget.js?tk=9110fadd0e38b69680d7ad6ea736e75a"></script> -->
 
-<!-- Homepage Intelligence — dual-endpoint tracking for maximum reliability -->
+<!-- Homepage Intelligence — resilient tracking with retry -->
 <script>
 (function(){
   var ua=navigator.userAgent.toLowerCase();
@@ -111,21 +111,32 @@ I got my PhD degree in Geodesy/Geophysics at [GFZ German Research Center for Geo
   var dv=ua.indexOf('mobile')>-1?'Mobile':ua.indexOf('tablet')>-1||ua.indexOf('ipad')>-1?'Tablet':'Desktop';
   var K='_hi_n',T=300000,n=Math.random().toString(36).slice(2)+Date.now().toString(36);
   try{var s=sessionStorage.getItem(K);if(s){var p=s.split('|');if(Date.now()-parseInt(p[1])<T)n=p[0];}sessionStorage.setItem(K,n+'|'+Date.now());}catch(_){}
-  var q='?browser='+br+'&os='+os+'&device='+dv+'&nonce='+n;
-  // Dual endpoints — Vercel (primary) + Worker (fallback)
+  // Client timezone for geo validation
+  var tz='';
+  try{tz=Intl.DateTimeFormat().resolvedOptions().timeZone||'';}catch(_){}
+  var q='?browser='+br+'&os='+os+'&device='+dv+'&nonce='+n+'&tz='+encodeURIComponent(tz);
+  // Endpoints ordered by China accessibility likelihood
   var EPS=[
-    'https://homepage-intelligence.vercel.app/api/track',
     'https://homepage-intel-pages.pages.dev/api/track',
+    'https://homepage-intelligence.vercel.app/api/track',
     'https://homepage-intel.zlguo0928.workers.dev/track'
   ];
-  function send(u){
+  // Multi-pronged send: XHR + Image pixel, with retry
+  function send(ep, attempt){
+    attempt = attempt || 0;
+    var url = ep + q + '&r=' + attempt;
     // XHR
-    try{var x=new XMLHttpRequest();x.open('GET',u,true);x.timeout=4000;x.send();}catch(e){}
-    // Image pixel fallback (most reliable, works even if XHR blocked)
-    setTimeout(function(){try{(new Image(1,1)).src=u+'&_t=1';}catch(e){}},600);
+    try{var x=new XMLHttpRequest();x.open('GET',url,true);x.timeout=3000;x.send();}catch(e){}
+    // Image pixel (different protocol path, may bypass some filters)
+    setTimeout(function(){try{(new Image(1,1)).src=url+'&_px=1';}catch(e){}},200+attempt*400);
+    // Retry on next endpoint after delay
+    if(attempt < 2){
+      setTimeout(function(){send(ep, attempt+1);}, 3000+attempt*2000);
+    }
   }
+  // Stagger sends: each endpoint gets 3 attempts over ~10 seconds
   setTimeout(function(){
-    for(var i=0;i<EPS.length;i++) send(EPS[i]+q);
+    for(var i=0;i<EPS.length;i++) send(EPS[i], 0);
   },300);
 })();
 </script>
